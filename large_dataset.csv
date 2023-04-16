@@ -1,0 +1,1001 @@
+Project ID,Size Range,Location,Raw Material Avaibility,Market Demand,TRL,Upgrade frequency,Project Duration,Production Capacity,Production Price,Selling Price,Environmental Impact,Intellectual Property,Competition,Financial Viability
+1,4000,Suburban,Medium,Strong,5,quaterly,26,140000,6289,3449.1582599368153,High,Not Patented,Medium,0
+2,1700,Rural,Low,Strong,2,long term,8,80000,5041,3236.346737504383,High,Patented,High,1
+3,1300,Suburban,Low,Weak,8,monthly,20,80000,9553,6786.439490107967,Medium,Patented,High,0
+4,1300,Urban,Low,Weak,1,monthly,44,80000,5929,1147.084458375923,High,Patented,High,0
+5,1500,Urban,Low,Strong,6,monthly,2,160000,241,7505.995496792327,High,Patented,Low,1
+6,700,Rural,Low,Weak,6,quaterly,26,40000,853,1444.6020741684952,Low,Not Patented,Medium,1
+7,3700,Suburban,Medium,Weak,8,yearly,38,100000,1921,2294.4255194105617,High,Patented,Low,0
+8,1200,Urban,Medium,Weak,4,monthly,14,60000,481,241.82595313122715,High,Not Patented,High,0
+9,2000,Urban,High,Strong,4,yearly,8,200000,8293,10012.949185313482,High,Not Patented,Low,0
+10,3400,Rural,Medium,Strong,3,yearly,20,140000,7861,8241.11532791229,Low,Not Patented,High,1
+11,2600,Suburban,High,Strong,5,monthly,26,140000,1837,1323.4162697847173,High,Patented,High,0
+12,4800,Suburban,Medium,Weak,2,yearly,50,200000,4141,7492.08990903956,Low,Patented,Medium,1
+13,600,Suburban,High,Weak,4,long term,56,60000,5209,9605.686096186577,Medium,Patented,High,1
+14,3400,Suburban,High,Weak,2,monthly,8,40000,7057,290.3405495261908,Medium,Patented,High,1
+15,4200,Urban,Medium,Weak,7,weekly,56,40000,9121,2716.763082188665,High,Patented,High,1
+16,700,Suburban,High,Weak,3,yearly,2,40000,1969,1252.386079451814,Low,Patented,Low,1
+17,3300,Rural,Medium,Weak,9,long term,14,200000,5917,4035.0615180296604,High,Not Patented,Low,0
+18,4000,Urban,High,Strong,5,long term,38,60000,7213,6654.070316641239,High,Patented,Medium,1
+19,1300,Rural,Medium,Strong,5,quaterly,8,80000,4825,2033.931757552752,Medium,Patented,High,0
+20,3000,Suburban,High,Strong,7,long term,44,20000,9913,10329.331260728723,High,Patented,Low,1
+21,1600,Urban,Low,Weak,3,monthly,44,120000,6013,5679.373058877107,High,Not Patented,Low,0
+22,4100,Suburban,High,Weak,4,yearly,8,40000,7621,3270.2140176951193,Medium,Not Patented,Medium,0
+23,3200,Urban,Medium,Strong,2,quaterly,56,180000,6817,1569.623219996143,Medium,Not Patented,Medium,1
+24,900,Urban,Low,Strong,4,quaterly,50,140000,5005,10410.622308326116,Medium,Patented,Medium,1
+25,1300,Urban,High,Weak,1,monthly,26,200000,7501,6768.435538859601,Medium,Patented,Medium,1
+26,500,Rural,High,Weak,2,yearly,50,180000,2893,4588.706107065718,Medium,Not Patented,High,1
+27,4800,Rural,High,Weak,1,monthly,14,180000,1021,5540.024067021281,Low,Patented,Medium,1
+28,4300,Urban,Low,Weak,4,weekly,32,60000,2689,1454.4037440234863,Low,Not Patented,Medium,1
+29,4900,Suburban,Low,Weak,3,weekly,14,80000,8773,7184.081785959793,High,Not Patented,Low,0
+30,4600,Suburban,Medium,Weak,1,yearly,20,120000,8725,11316.458889020883,Low,Not Patented,Medium,1
+31,2500,Suburban,High,Weak,1,quaterly,2,120000,3469,4618.788903803271,Low,Patented,Low,0
+32,1700,Rural,Low,Weak,4,long term,38,120000,9337,8888.316509477998,Medium,Patented,Low,0
+33,1000,Urban,Medium,Weak,8,quaterly,26,140000,1633,5656.020831852917,High,Patented,High,0
+34,1500,Suburban,High,Strong,4,weekly,50,20000,7729,7406.95431057952,Low,Patented,High,0
+35,1400,Suburban,Low,Strong,9,monthly,50,160000,9565,1181.5759420145066,Medium,Not Patented,High,0
+36,2700,Urban,Low,Strong,5,yearly,44,20000,4705,7589.984188476726,Low,Patented,High,0
+37,4300,Urban,High,Strong,6,monthly,32,200000,5317,1041.4446735207152,Low,Patented,High,1
+38,4800,Urban,High,Strong,6,yearly,20,160000,9349,2228.472696420331,Medium,Not Patented,Medium,0
+39,2300,Rural,Low,Weak,1,monthly,26,100000,9001,7058.888590320224,Medium,Not Patented,Low,1
+40,4000,Suburban,High,Weak,8,long term,26,60000,7513,3908.947897907397,Medium,Not Patented,Low,0
+41,4900,Rural,Medium,Weak,8,quaterly,26,200000,5029,6217.488384488909,Medium,Patented,Medium,1
+42,3900,Suburban,Medium,Strong,9,weekly,38,200000,8845,5812.068237007903,Medium,Not Patented,Medium,1
+43,3800,Urban,Medium,Weak,2,yearly,20,60000,5761,5305.2698715346405,High,Not Patented,Low,0
+44,3600,Rural,Medium,Weak,4,monthly,8,100000,9085,7589.984188476726,Medium,Not Patented,Low,1
+45,2200,Suburban,Medium,Weak,4,quaterly,2,140000,121,6145.843992965693,Low,Not Patented,Low,1
+46,3600,Suburban,Low,Weak,2,long term,2,120000,937,566.5770270153902,Medium,Not Patented,High,0
+47,3800,Urban,High,Weak,5,weekly,2,80000,4993,6420.785085619635,High,Patented,Medium,0
+48,1100,Rural,High,Strong,4,monthly,26,200000,4765,1769.3395035678632,Low,Patented,Low,1
+49,1600,Suburban,High,Weak,1,quaterly,20,20000,8569,9386.931978034787,High,Not Patented,High,0
+50,2400,Urban,High,Weak,2,monthly,20,160000,3001,2913.5111340804247,Low,Not Patented,Low,0
+51,1500,Rural,Medium,Weak,1,quaterly,20,200000,9673,1519.7335694272192,High,Patented,Medium,0
+52,2300,Urban,Medium,Strong,8,yearly,50,40000,1609,1238.8380557403545,High,Not Patented,High,1
+53,4400,Rural,Low,Strong,4,quaterly,2,20000,325,1670.8477105462878,Low,Not Patented,High,1
+54,800,Suburban,Medium,Weak,4,long term,44,80000,7057,6935.743488956155,Low,Patented,High,1
+55,2700,Suburban,Medium,Weak,1,long term,8,20000,2881,1818.4864269355232,Low,Patented,High,0
+56,4300,Suburban,High,Weak,7,weekly,44,80000,6769,1549.9037996921202,Low,Patented,Medium,0
+57,2600,Urban,Low,Weak,7,weekly,56,180000,2197,6315.928989840071,Medium,Patented,Low,1
+58,600,Rural,Low,Strong,4,weekly,56,160000,3817,4575.515142697061,High,Patented,Medium,0
+59,2100,Suburban,High,Weak,3,long term,8,20000,2149,7785.14054386739,Low,Not Patented,Medium,0
+60,900,Urban,Low,Weak,1,yearly,56,200000,1621,1805.6366227442718,Medium,Not Patented,Medium,0
+61,3200,Urban,Low,Weak,1,long term,20,120000,4225,4608.517140112379,Low,Patented,High,0
+62,1600,Urban,Medium,Strong,9,quaterly,8,20000,4081,1038.639756171953,Medium,Patented,High,1
+63,3700,Suburban,High,Strong,9,quaterly,20,120000,5773,4183.843565018677,Low,Not Patented,Low,0
+64,2500,Suburban,High,Weak,2,weekly,26,40000,5965,5947.202292938557,Low,Not Patented,Low,1
+65,4100,Urban,Low,Strong,7,quaterly,38,180000,5677,8462.960579435916,Medium,Not Patented,High,0
+66,600,Rural,Medium,Weak,2,yearly,20,100000,8953,6884.001467683928,Medium,Patented,Medium,0
+67,4000,Suburban,Medium,Strong,6,monthly,14,20000,7081,3823.945077024775,Medium,Patented,Medium,1
+68,800,Rural,Medium,Strong,5,weekly,44,20000,4273,10150.203789018948,High,Patented,Low,0
+69,1500,Rural,Low,Strong,3,weekly,56,60000,4141,9186.573006851724,Low,Not Patented,Low,1
+70,2900,Rural,Medium,Weak,2,monthly,2,60000,7477,8391.127237092336,Low,Not Patented,Medium,1
+71,1500,Suburban,Low,Weak,5,long term,32,140000,2593,5083.483463724526,High,Patented,High,1
+72,2000,Suburban,Low,Strong,5,quaterly,26,120000,7849,829.4834896422059,High,Not Patented,Medium,0
+73,1700,Suburban,High,Strong,4,quaterly,14,60000,5545,5679.373058877107,High,Patented,Low,0
+74,1600,Suburban,Medium,Strong,6,monthly,14,100000,7129,7245.088717367356,High,Patented,Low,0
+75,1200,Rural,High,Strong,1,long term,38,120000,8917,5466.6139951304485,Medium,Not Patented,High,1
+76,1900,Urban,High,Weak,4,yearly,50,60000,6637,9552.440072126512,High,Patented,Medium,1
+77,2100,Rural,Medium,Weak,5,quaterly,2,40000,9517,3138.8276347263813,Low,Not Patented,High,0
+78,2000,Rural,High,Strong,6,weekly,26,160000,241,6342.477711652884,Medium,Patented,Low,1
+79,3000,Rural,High,Weak,3,monthly,8,100000,7129,57.23952931162606,High,Patented,High,0
+80,3500,Suburban,Low,Strong,6,monthly,26,20000,2425,3058.7466276966616,Medium,Patented,Low,0
+81,4200,Rural,Low,Strong,4,long term,32,60000,9577,748.1997711638144,High,Not Patented,Medium,1
+82,2700,Rural,Low,Weak,6,monthly,8,60000,4333,8282.740746330848,Medium,Not Patented,Medium,1
+83,1400,Suburban,High,Weak,1,monthly,50,100000,4069,10528.860506921174,Medium,Patented,High,0
+84,4500,Urban,Medium,Strong,4,yearly,32,140000,1573,3532.014888786373,Medium,Patented,High,0
+85,2400,Urban,Medium,Strong,6,quaterly,26,80000,4645,3317.5964887373184,Medium,Patented,High,0
+86,4800,Rural,Low,Strong,6,monthly,50,100000,4297,8727.58060931727,Medium,Not Patented,High,1
+87,2500,Rural,Medium,Weak,7,yearly,14,160000,5749,6762.8244344776485,Medium,Not Patented,Medium,1
+88,1100,Rural,High,Strong,5,yearly,20,80000,1777,6721.891758195275,Medium,Patented,High,1
+89,3500,Urban,High,Strong,1,weekly,32,60000,5941,10565.56473952949,Medium,Patented,Medium,0
+90,1900,Urban,Low,Weak,4,quaterly,56,20000,2029,4960.022180712718,High,Patented,Medium,1
+91,1600,Rural,High,Strong,3,weekly,38,120000,1021,923.409207792691,High,Not Patented,Medium,0
+92,1500,Urban,Low,Strong,2,long term,44,80000,4057,7406.95431057952,Medium,Not Patented,Low,1
+93,500,Suburban,High,Weak,7,quaterly,44,140000,9145,5388.096797542857,Medium,Not Patented,High,0
+94,4000,Suburban,Medium,Strong,5,yearly,38,80000,4621,2690.768207681993,High,Not Patented,Low,1
+95,500,Suburban,Medium,Weak,6,long term,56,80000,7213,8683.42215224983,High,Not Patented,Low,0
+96,900,Suburban,High,Weak,1,yearly,2,200000,625,4716.388504134567,High,Patented,Medium,1
+97,3600,Urban,Low,Strong,1,monthly,44,100000,3241,4575.515142697061,Low,Patented,Medium,1
+98,800,Urban,Low,Strong,1,long term,56,200000,757,805.9694210579657,High,Patented,High,1
+99,3900,Rural,Low,Weak,2,long term,32,120000,1105,10503.089465264773,Low,Not Patented,Low,1
+100,1600,Suburban,Low,Strong,3,monthly,38,20000,3421,5679.373058877107,High,Patented,High,1
+101,3100,Suburban,High,Weak,8,long term,44,160000,2341,8106.603426734966,Low,Patented,Medium,0
+102,2900,Suburban,Low,Strong,4,monthly,50,120000,7249,4765.4578182928735,High,Patented,Low,0
+103,4700,Suburban,Medium,Weak,6,yearly,14,200000,3589,6288.07925053688,Medium,Not Patented,Medium,1
+104,3900,Suburban,High,Weak,1,yearly,32,80000,4465,1644.414385031699,Medium,Patented,Low,0
+105,2100,Suburban,High,Strong,1,yearly,26,20000,1057,3249.4542420667563,High,Patented,Low,0
+106,4600,Suburban,Low,Weak,9,monthly,20,160000,2809,9626.920309282388,High,Patented,Medium,1
+107,3100,Rural,Low,Strong,7,long term,2,100000,4345,9783.581329359811,Low,Not Patented,High,0
+108,3800,Urban,Medium,Weak,7,yearly,8,180000,6985,7563.365655546976,High,Not Patented,High,0
+109,2500,Suburban,Medium,Weak,6,monthly,20,60000,8761,5581.466419232487,Medium,Not Patented,Medium,0
+110,2600,Suburban,High,Weak,4,weekly,50,100000,5581,5753.4621419907535,Low,Not Patented,Low,0
+111,3400,Rural,Low,Weak,5,long term,32,40000,5929,5581.466419232487,Low,Patented,Low,1
+112,4600,Suburban,High,Weak,6,quaterly,44,160000,9229,9415.585028397833,Low,Not Patented,Low,1
+113,1300,Rural,Medium,Strong,9,monthly,32,180000,2353,10187.226563265589,Medium,Not Patented,Medium,0
+114,1500,Urban,Medium,Weak,5,long term,14,60000,3349,7184.081785959793,High,Not Patented,Medium,0
+115,4200,Rural,Medium,Weak,5,monthly,8,180000,481,767.6845727261648,Low,Not Patented,Low,1
+116,2300,Suburban,Medium,Strong,1,quaterly,20,100000,7285,4172.0466915906645,Medium,Not Patented,Low,0
+117,1100,Suburban,Low,Strong,5,quaterly,44,200000,9745,1823.9178652456765,High,Patented,Low,0
+118,1700,Urban,Medium,Strong,4,long term,2,140000,3601,4387.901952264686,Low,Patented,High,1
+119,700,Rural,Medium,Weak,3,quaterly,14,100000,4537,4625.94478156455,High,Not Patented,Low,0
+120,2900,Rural,Medium,Strong,7,quaterly,56,180000,9313,8384.333693638247,Low,Not Patented,Medium,0
+121,2100,Suburban,Low,Weak,3,monthly,44,60000,6157,4922.809245182641,Medium,Patented,High,0
+122,3200,Urban,Medium,Strong,6,monthly,44,100000,3505,5947.202292938557,Low,Patented,Low,0
+123,2800,Suburban,High,Strong,4,monthly,20,80000,3481,1041.4446735207152,Medium,Not Patented,Medium,0
+124,3800,Rural,Medium,Strong,3,weekly,20,100000,1765,4307.391287847411,Medium,Not Patented,Medium,0
+125,4000,Urban,Low,Strong,3,long term,8,160000,4741,6259.3274850890475,Low,Not Patented,Low,1
+126,2500,Suburban,Medium,Weak,4,quaterly,32,20000,3841,5948.244852537284,High,Patented,High,1
+127,4400,Suburban,High,Weak,9,long term,32,120000,4045,2612.408119241799,High,Patented,High,0
+128,3300,Urban,High,Strong,6,long term,38,160000,8617,535.4351530967222,Medium,Not Patented,Medium,0
+129,2000,Suburban,Low,Strong,1,long term,44,120000,9841,8097.691391800997,High,Patented,High,1
+130,3300,Rural,Low,Weak,2,monthly,8,140000,1693,6034.470238788926,Medium,Patented,High,1
+131,3700,Urban,High,Weak,5,long term,44,40000,3793,8282.740746330848,Low,Not Patented,Low,1
+132,3700,Rural,Low,Weak,8,weekly,26,120000,97,7302.672191861243,High,Not Patented,High,0
+133,2900,Suburban,Low,Strong,9,monthly,20,80000,1345,11238.250351340825,Low,Patented,High,1
+134,2600,Urban,Low,Weak,5,long term,14,80000,6745,8380.624905217039,High,Patented,Medium,1
+135,4300,Rural,Low,Weak,2,quaterly,26,140000,9553,2957.438815361245,Low,Patented,Medium,1
+136,1700,Suburban,Medium,Strong,4,yearly,50,160000,9613,2419.579995914547,High,Not Patented,Low,0
+137,2700,Rural,Medium,Strong,6,monthly,38,60000,8233,4518.034036109267,Low,Not Patented,Low,0
+138,3100,Urban,Low,Weak,9,long term,2,80000,9913,4755.867549923478,Medium,Not Patented,High,0
+139,800,Urban,Medium,Weak,5,quaterly,32,160000,4609,1569.623219996143,Medium,Not Patented,Medium,1
+140,600,Suburban,High,Weak,9,monthly,8,180000,6613,1670.8477105462878,High,Not Patented,Medium,1
+141,2100,Rural,High,Weak,7,long term,44,100000,9589,10743.185577522236,Low,Patented,High,0
+142,3600,Urban,High,Strong,8,long term,50,20000,3049,6580.4110330634885,High,Not Patented,Low,0
+143,3800,Rural,High,Strong,5,yearly,26,140000,6961,5305.2698715346405,Low,Patented,Medium,0
+144,1500,Rural,Medium,Weak,4,weekly,8,200000,6085,10207.576256855773,Medium,Not Patented,Medium,0
+145,4200,Suburban,High,Weak,8,long term,8,140000,4213,1265.367287240691,Medium,Not Patented,Medium,0
+146,4500,Urban,High,Weak,5,yearly,50,40000,361,9281.251129348522,High,Patented,Low,1
+147,4000,Suburban,Medium,Strong,9,weekly,32,60000,4849,8878.137835972353,Medium,Patented,Medium,1
+148,1300,Suburban,Medium,Strong,7,yearly,32,160000,661,4366.9992320433985,Low,Not Patented,Medium,0
+149,4200,Rural,Medium,Strong,1,yearly,38,60000,637,3449.1582599368153,Medium,Not Patented,Medium,0
+150,1600,Suburban,Medium,Strong,5,long term,44,40000,6193,10763.057508903607,Low,Patented,High,0
+151,1400,Rural,Medium,Strong,3,quaterly,56,160000,6949,10863.099699069124,Medium,Patented,Low,0
+152,900,Urban,Medium,Strong,1,long term,8,160000,9217,4235.649169314943,Medium,Not Patented,High,0
+153,2800,Rural,Low,Strong,6,monthly,44,180000,6049,1070.7646334598571,Medium,Patented,High,1
+154,4800,Rural,Low,Strong,4,yearly,38,20000,9205,6342.477711652884,Low,Patented,High,0
+155,2100,Suburban,Medium,Weak,9,weekly,50,80000,517,10459.21366001524,Medium,Patented,Low,0
+156,3200,Rural,Medium,Strong,3,monthly,38,180000,8293,8531.681465436739,Low,Not Patented,High,1
+157,800,Suburban,Low,Weak,1,monthly,20,180000,1657,290.3405495261908,Low,Not Patented,Medium,0
+158,1800,Rural,Low,Strong,4,yearly,2,80000,9781,10012.949185313482,High,Not Patented,High,0
+159,1400,Rural,Medium,Strong,6,weekly,26,100000,5413,180.70221607281843,Low,Patented,Low,1
+160,3100,Urban,Low,Weak,3,quaterly,38,180000,841,8463.454191639798,Low,Not Patented,Medium,1
+161,2600,Rural,Low,Weak,3,long term,50,100000,3277,3197.8461966421405,Medium,Patented,High,0
+162,2000,Urban,Medium,Strong,4,long term,8,140000,361,5747.029606517112,Low,Patented,Low,0
+163,4200,Rural,High,Strong,6,quaterly,8,140000,1585,8888.316509477998,High,Patented,Low,1
+164,2900,Rural,Medium,Weak,7,monthly,32,120000,6793,6034.065458164094,High,Patented,High,1
+165,4600,Urban,High,Weak,9,monthly,38,200000,7285,5725.207485050585,Medium,Not Patented,Low,0
+166,3400,Urban,Medium,Weak,6,quaterly,14,40000,2221,3551.8179584720574,Medium,Patented,High,0
+167,700,Urban,Low,Weak,5,monthly,26,200000,2053,6658.59791282304,High,Patented,Low,0
+168,1900,Suburban,Medium,Strong,6,weekly,2,160000,6865,8664.536570489496,Low,Not Patented,Medium,1
+169,4700,Suburban,High,Weak,1,yearly,32,160000,5269,1854.467844629793,Medium,Not Patented,Medium,0
+170,4200,Suburban,High,Strong,1,monthly,8,160000,6757,6947.450165835776,High,Patented,High,0
+171,4500,Suburban,Low,Weak,3,weekly,56,160000,1861,10173.51871793595,Medium,Patented,Medium,1
+172,3000,Urban,High,Weak,9,long term,56,140000,469,7491.45121520967,Low,Not Patented,Medium,0
+173,3100,Suburban,Medium,Weak,5,weekly,38,60000,1525,2132.393949027539,Low,Not Patented,Medium,1
+174,1400,Suburban,Medium,Strong,7,monthly,32,100000,4405,5982.336617686199,Low,Patented,High,0
+175,1600,Urban,High,Strong,9,quaterly,20,40000,3109,1580.3877868448938,Medium,Not Patented,Low,1
+176,900,Urban,High,Strong,8,long term,50,200000,8941,2164.498442688023,High,Patented,Low,0
+177,700,Urban,Medium,Strong,2,long term,26,100000,7237,2106.3228648343365,Low,Not Patented,High,1
+178,4600,Urban,High,Weak,4,weekly,32,200000,1201,363.77054075739056,High,Patented,Low,1
+179,3300,Suburban,High,Strong,8,quaterly,26,120000,9757,5268.578898587949,Medium,Patented,Low,0
+180,1400,Urban,Low,Strong,7,monthly,38,200000,3529,9875.588252971373,Medium,Not Patented,Medium,0
+181,1800,Suburban,Low,Strong,9,long term,20,200000,6073,10528.860506921174,Medium,Patented,High,1
+182,4000,Suburban,High,Weak,8,monthly,32,40000,6073,2965.368058816051,Low,Patented,Low,0
+183,1700,Suburban,High,Strong,6,monthly,38,140000,5581,2215.989644353976,High,Patented,Medium,0
+184,2700,Rural,Medium,Weak,9,weekly,20,20000,7213,9110.662215519918,Low,Patented,High,0
+185,4000,Suburban,High,Strong,1,yearly,44,180000,4789,1580.3877868448938,High,Patented,Low,0
+186,3300,Suburban,Low,Weak,4,quaterly,14,160000,3985,8576.792358733068,Low,Not Patented,High,0
+187,1900,Urban,Medium,Strong,2,monthly,26,160000,3517,1346.4784052682658,Medium,Patented,Low,1
+188,1300,Rural,Medium,Strong,9,long term,44,20000,985,2997.694476832655,Medium,Patented,High,1
+189,1300,Rural,Low,Strong,3,quaterly,44,100000,2629,4173.6721350622265,Medium,Patented,Low,0
+190,1900,Urban,Medium,Strong,3,weekly,26,120000,1777,10881.092735944763,Low,Patented,Low,0
+191,4100,Suburban,Low,Weak,3,monthly,56,180000,7693,9327.626095410797,Medium,Not Patented,Low,0
+192,1500,Rural,Medium,Weak,8,yearly,26,100000,5677,11235.566299687276,High,Not Patented,Low,1
+193,2900,Rural,Low,Strong,1,weekly,38,120000,8197,10018.532725027637,Low,Patented,Medium,0
+194,1600,Urban,Low,Weak,3,weekly,14,160000,1549,2937.3348294913053,Low,Patented,Medium,0
+195,600,Urban,Medium,Weak,4,weekly,20,160000,2593,4337.931058195408,Low,Patented,High,0
+196,2900,Rural,High,Strong,5,yearly,38,120000,7825,8292.42947343008,Low,Patented,Low,1
+197,3400,Urban,Low,Weak,9,yearly,26,160000,913,6259.3274850890475,High,Patented,High,0
+198,4200,Suburban,Low,Strong,2,weekly,32,140000,5173,713.3294206516641,High,Patented,High,1
+199,500,Rural,Medium,Strong,7,long term,8,200000,7513,7887.4750881303025,Medium,Not Patented,Medium,0
+200,2600,Suburban,Low,Weak,8,weekly,14,200000,1885,1447.9989459614897,High,Patented,Medium,1
+201,1000,Rural,Low,Weak,7,monthly,44,180000,2857,4016.3893685964003,High,Not Patented,High,1
+202,600,Suburban,High,Strong,7,weekly,26,120000,5785,5810.330981328947,Low,Patented,High,0
+203,2300,Urban,Low,Weak,8,yearly,26,140000,4657,3443.1348343498553,Low,Not Patented,High,1
+204,2800,Rural,High,Strong,6,yearly,8,100000,6193,4606.739839207768,High,Not Patented,High,0
+205,3300,Suburban,Low,Strong,7,yearly,26,160000,6061,9589.751691899193,Medium,Not Patented,Medium,0
+206,4900,Rural,Low,Strong,9,weekly,8,160000,3853,8878.137835972353,Medium,Not Patented,High,0
+207,2400,Urban,Medium,Weak,8,monthly,56,200000,4657,5839.108646274625,High,Patented,Medium,0
+208,3000,Suburban,Low,Weak,6,yearly,32,60000,529,335.5913579838155,High,Patented,High,0
+209,2900,Urban,Low,Strong,1,weekly,32,80000,7441,1448.5090030334395,Medium,Patented,Medium,1
+210,4700,Urban,Medium,Weak,3,weekly,32,60000,1261,224.67830979832115,Medium,Patented,Low,0
+211,1300,Urban,High,Strong,2,monthly,32,140000,7213,9445.865915404853,High,Patented,Low,1
+212,4000,Rural,Medium,Strong,6,long term,2,160000,1393,3823.945077024775,Medium,Patented,Low,1
+213,2300,Suburban,High,Strong,8,monthly,8,120000,6637,9182.785649585612,High,Patented,High,1
+214,2600,Urban,High,Weak,1,yearly,38,180000,7105,5268.578898587949,Medium,Not Patented,Medium,1
+215,4000,Suburban,Medium,Weak,7,monthly,56,80000,9421,1769.3395035678632,High,Patented,Low,0
+216,4600,Suburban,Medium,Weak,3,monthly,44,120000,3985,1580.3877868448938,Medium,Not Patented,Low,0
+217,2800,Urban,Low,Weak,5,monthly,2,40000,5125,6189.691213268358,High,Not Patented,Medium,0
+218,1400,Rural,Low,Strong,8,monthly,2,80000,5401,7641.347211853665,Medium,Patented,Medium,0
+219,700,Urban,Medium,Weak,3,monthly,14,100000,3721,9235.763456139117,Low,Not Patented,Low,1
+220,4500,Rural,Medium,Strong,1,weekly,38,40000,4537,57.23952931162606,High,Patented,Low,1
+221,4500,Urban,Medium,Strong,6,long term,56,40000,4453,2997.694476832655,Medium,Patented,Low,0
+222,4300,Urban,High,Strong,6,weekly,20,100000,1261,6579.830704773357,High,Patented,High,0
+223,1700,Rural,Low,Weak,4,monthly,2,120000,1117,7801.139787163768,High,Patented,Low,0
+224,700,Urban,Medium,Weak,2,quaterly,32,60000,8365,4028.232964116044,Medium,Not Patented,High,0
+225,3800,Urban,Medium,Weak,7,monthly,26,140000,8893,4579.852343407202,High,Not Patented,Medium,0
+226,1800,Rural,Low,Strong,4,quaterly,44,100000,9637,7384.7357010334745,Low,Not Patented,Medium,1
+227,2800,Suburban,High,Strong,8,yearly,38,180000,4453,715.4764752999454,High,Not Patented,Medium,1
+228,3100,Suburban,Medium,Weak,2,long term,32,140000,6649,6109.235456589334,Low,Not Patented,Low,1
+229,900,Suburban,High,Strong,8,yearly,38,140000,8221,512.3129483056223,High,Not Patented,Medium,1
+230,2200,Urban,Medium,Strong,6,monthly,8,60000,4117,5840.862372734774,Medium,Not Patented,Medium,1
+231,3700,Urban,Medium,Strong,4,yearly,32,200000,8701,7492.08990903956,Medium,Not Patented,High,1
+232,800,Urban,Low,Strong,1,quaterly,44,200000,2053,1562.5835253542396,High,Patented,Medium,1
+233,4700,Urban,Medium,Weak,9,weekly,32,100000,3085,3178.4566659322877,Medium,Not Patented,High,1
+234,3600,Rural,Low,Weak,3,yearly,56,200000,7921,3587.653050759266,High,Not Patented,Medium,1
+235,2300,Rural,Low,Strong,5,weekly,44,80000,9337,3011.8331709067224,Medium,Not Patented,High,0
+236,700,Suburban,Medium,Strong,9,long term,50,200000,7021,1486.7192530958264,Medium,Patented,Medium,1
+237,3900,Urban,Medium,Strong,6,long term,38,20000,3061,5923.285707102319,High,Not Patented,Low,0
+238,4900,Suburban,High,Strong,6,quaterly,2,100000,2941,11238.250351340825,Low,Patented,High,1
+239,3000,Suburban,Low,Weak,6,weekly,20,120000,9277,1306.8203123963876,Low,Not Patented,High,1
+240,1400,Suburban,High,Strong,4,monthly,44,60000,6877,2419.579995914547,Medium,Patented,Medium,1
+241,4300,Suburban,High,Weak,2,monthly,2,160000,9061,9242.84624278864,High,Not Patented,High,1
+242,3900,Suburban,Medium,Strong,7,weekly,20,140000,7333,9297.73320812068,Low,Patented,Low,1
+243,1700,Urban,High,Weak,4,long term,26,160000,9985,5077.051549872874,Medium,Not Patented,Low,1
+244,3500,Suburban,Medium,Weak,5,quaterly,56,160000,6169,5781.437595084398,Low,Not Patented,Medium,0
+245,1400,Urban,High,Weak,1,long term,56,180000,8881,2876.9649709781543,High,Not Patented,High,1
+246,3000,Urban,Low,Weak,8,long term,38,20000,4297,3099.6678474211144,Medium,Not Patented,High,1
+247,3200,Suburban,Medium,Strong,1,monthly,8,100000,9865,6935.743488956155,High,Not Patented,Low,0
+248,3800,Suburban,Medium,Strong,2,yearly,26,100000,37,5050.178862388053,Medium,Not Patented,Medium,0
+249,900,Urban,Low,Weak,4,yearly,26,100000,8641,9490.63891013683,Medium,Patented,High,1
+250,4900,Suburban,Low,Weak,9,monthly,14,160000,1681,6256.186054514222,Medium,Patented,Low,1
+251,4800,Suburban,Medium,Weak,9,monthly,20,40000,7837,5383.834141276825,Low,Not Patented,Medium,0
+252,2800,Rural,High,Strong,4,quaterly,2,180000,5365,1677.0588525254175,High,Not Patented,High,1
+253,1200,Suburban,Low,Weak,7,monthly,20,200000,5269,5260.939026727189,Low,Patented,High,0
+254,4000,Suburban,Medium,Weak,9,yearly,38,60000,3421,8037.798919627029,Low,Not Patented,High,1
+255,3400,Suburban,Medium,Weak,1,quaterly,20,40000,8569,11412.426272847566,Low,Patented,Medium,0
+256,4000,Urban,Medium,Weak,4,quaterly,8,60000,4597,7796.858931748591,Medium,Patented,Medium,0
+257,2700,Urban,High,Weak,2,long term,32,20000,877,7459.605267906128,High,Patented,Medium,0
+258,2200,Urban,Low,Weak,8,yearly,20,100000,13,512.3129483056223,Medium,Patented,High,1
+259,2800,Urban,High,Strong,3,weekly,44,140000,6865,4721.163049145243,Low,Not Patented,Low,1
+260,800,Urban,High,Strong,6,yearly,38,160000,8677,3471.4344520819395,Medium,Patented,High,0
+261,3600,Suburban,Medium,Weak,4,monthly,26,80000,2149,6214.321983774838,High,Not Patented,Medium,0
+262,500,Suburban,Medium,Weak,7,long term,44,40000,8689,10150.203789018948,High,Not Patented,Medium,1
+263,1500,Suburban,High,Strong,7,long term,44,140000,5845,9945.01260793387,Low,Not Patented,Low,1
+264,3400,Urban,High,Weak,8,yearly,14,180000,3073,6473.47903826226,Medium,Not Patented,Low,1
+265,4900,Suburban,Low,Weak,8,long term,32,60000,6133,2419.579995914547,Medium,Not Patented,Medium,1
+266,4000,Suburban,Medium,Strong,8,long term,56,200000,5485,11106.346237132322,High,Not Patented,Low,1
+267,1000,Urban,Medium,Weak,2,yearly,20,160000,2941,2459.111867327343,High,Not Patented,Low,1
+268,4500,Suburban,High,Strong,6,weekly,14,140000,2869,6580.4110330634885,High,Not Patented,High,0
+269,2200,Rural,High,Weak,5,quaterly,32,100000,1669,6574.062124191968,Medium,Patented,Low,1
+270,2200,Suburban,Low,Strong,3,weekly,50,60000,6361,5735.6135270171,Medium,Patented,Medium,0
+271,4000,Urban,High,Strong,9,yearly,8,100000,4513,4659.46721855873,High,Not Patented,Medium,1
+272,3300,Suburban,Low,Weak,5,long term,2,60000,8509,5982.336617686199,High,Patented,Medium,1
+273,3800,Rural,Low,Weak,1,long term,20,80000,9505,5808.372194938098,Medium,Not Patented,High,0
+274,1300,Rural,Medium,Weak,4,weekly,2,160000,2713,7033.3373587298875,Medium,Not Patented,Low,1
+275,1400,Urban,High,Strong,1,monthly,38,120000,4981,1448.5090030334395,High,Patented,Medium,0
+276,700,Suburban,High,Strong,3,monthly,14,60000,3757,2248.8619216419957,Low,Patented,Low,1
+277,3200,Rural,Medium,Weak,4,monthly,2,180000,1213,1070.7646334598571,Low,Not Patented,High,0
+278,4500,Suburban,Low,Weak,5,yearly,44,160000,8365,10250.569389015562,High,Not Patented,Low,1
+279,4400,Suburban,High,Strong,6,long term,8,20000,9193,5335.940558346012,Medium,Patented,Low,0
+280,2800,Urban,High,Strong,4,weekly,32,40000,4105,7505.995496792327,Low,Patented,Medium,1
+281,3400,Urban,High,Weak,9,yearly,44,40000,2605,2690.768207681993,High,Not Patented,Low,1
+282,700,Suburban,Low,Weak,7,monthly,14,120000,2761,9356.431901569953,High,Patented,Medium,1
+283,1800,Rural,Medium,Strong,1,weekly,14,80000,9589,805.9694210579657,Low,Not Patented,Medium,1
+284,800,Urban,Low,Strong,2,weekly,50,100000,4657,6738.285055092175,Low,Not Patented,Medium,1
+285,3300,Suburban,Medium,Weak,8,quaterly,32,160000,1333,8873.372027849851,Medium,Patented,Medium,1
+286,2500,Urban,Low,Strong,9,monthly,14,120000,8821,2103.845152452323,Medium,Not Patented,High,1
+287,2200,Suburban,High,Strong,5,yearly,56,180000,7909,6658.59791282304,High,Patented,Low,0
+288,4400,Suburban,High,Strong,3,weekly,38,100000,7213,4744.09553436378,Low,Patented,Low,0
+289,3800,Rural,High,Weak,5,monthly,32,20000,6421,335.5913579838155,Medium,Patented,Low,0
+290,1800,Urban,Low,Weak,7,monthly,20,40000,2665,7098.867845332602,High,Patented,High,0
+291,700,Urban,High,Strong,6,yearly,50,40000,5905,9783.581329359811,High,Not Patented,High,0
+292,2500,Rural,Medium,Strong,3,monthly,8,140000,5893,1569.623219996143,Medium,Not Patented,Low,1
+293,2300,Suburban,Medium,Weak,3,long term,50,160000,5173,1464.2199583043514,High,Not Patented,Medium,0
+294,1500,Suburban,High,Strong,2,quaterly,44,160000,2005,7127.442155635648,Low,Not Patented,High,0
+295,4400,Suburban,Low,Weak,5,long term,56,160000,9829,2294.4255194105617,Medium,Patented,High,0
+296,4500,Rural,Medium,Weak,8,weekly,32,40000,4921,2337.1675807637266,Medium,Patented,Low,0
+297,4200,Suburban,Low,Strong,5,yearly,8,40000,2053,3780.6358030201786,Medium,Patented,Low,0
+298,800,Urban,High,Strong,5,monthly,56,140000,8329,4497.216383250827,Low,Not Patented,Medium,1
+299,4300,Suburban,High,Weak,5,weekly,14,120000,3649,4518.034036109267,Medium,Patented,Medium,1
+300,600,Urban,High,Strong,2,yearly,38,180000,6805,64.37242305249248,High,Not Patented,Medium,0
+301,4500,Rural,High,Strong,1,long term,8,160000,8233,754.2249302005039,Medium,Not Patented,Medium,1
+302,2100,Rural,Low,Strong,4,quaterly,2,40000,5065,4493.245966064982,Low,Patented,Low,1
+303,600,Urban,Medium,Strong,8,weekly,20,160000,1477,6288.07925053688,High,Not Patented,Medium,1
+304,2900,Suburban,Low,Strong,8,long term,8,80000,2929,1486.7192530958264,High,Patented,High,0
+305,1900,Urban,High,Weak,2,quaterly,2,20000,3073,8282.740746330848,Low,Not Patented,Medium,1
+306,700,Urban,Low,Weak,5,monthly,20,40000,6601,9200.776462400798,Low,Not Patented,High,0
+307,1900,Urban,Medium,Strong,8,quaterly,32,100000,5701,9818.904459651067,Low,Patented,Low,1
+308,4300,Urban,High,Weak,9,weekly,8,180000,2293,11106.346237132322,Medium,Patented,Medium,0
+309,900,Rural,Low,Strong,6,monthly,20,120000,2965,8704.587776772658,Medium,Patented,Medium,0
+310,1100,Urban,High,Strong,1,monthly,26,80000,745,1744.3604120397429,Medium,Patented,High,1
+311,1100,Suburban,High,Strong,6,quaterly,14,120000,4333,1686.3175713544838,Low,Not Patented,High,0
+312,600,Rural,Low,Strong,3,quaterly,8,40000,4525,8603.813410625224,High,Not Patented,Medium,1
+313,4100,Urban,High,Weak,8,weekly,56,80000,7429,1181.5759420145066,Medium,Patented,Low,0
+314,4900,Urban,Low,Weak,3,long term,20,20000,8821,4079.7194935887283,High,Patented,High,1
+315,900,Urban,High,Weak,2,monthly,32,140000,7549,1070.7646334598571,Medium,Patented,Medium,1
+316,4900,Suburban,Low,Strong,8,quaterly,56,180000,4405,2765.0834762458003,Low,Not Patented,Medium,0
+317,2500,Suburban,Medium,Weak,6,quaterly,50,160000,169,6268.029300825003,Medium,Patented,Medium,0
+318,900,Rural,Medium,Weak,8,long term,2,60000,7549,1238.8380557403545,Low,Patented,Medium,1
+319,1300,Rural,Medium,Strong,5,monthly,20,160000,1981,5822.841539608965,Low,Patented,Low,0
+320,3800,Suburban,Low,Weak,4,quaterly,44,40000,2725,4544.28839518442,Medium,Not Patented,Low,0
+321,2200,Suburban,High,Weak,6,weekly,44,180000,7045,4034.3457680337265,High,Patented,Low,0
+322,3700,Urban,Low,Strong,9,monthly,56,80000,5857,1569.623219996143,High,Not Patented,Low,1
+323,1400,Suburban,Low,Strong,5,quaterly,44,160000,73,8688.132068402314,Medium,Not Patented,Medium,0
+324,3100,Rural,Low,Weak,5,weekly,44,20000,4249,8983.064629923761,Low,Not Patented,Medium,0
+325,3800,Suburban,Medium,Strong,4,long term,38,60000,8965,1464.2199583043514,Low,Patented,Low,0
+326,800,Suburban,High,Strong,4,weekly,50,160000,8809,11225.664275667063,Medium,Patented,High,1
+327,3800,Urban,Medium,Weak,8,yearly,2,180000,9265,9500.568899974001,High,Patented,Low,1
+328,2700,Rural,High,Strong,4,quaterly,32,140000,6337,7628.41607047827,Low,Not Patented,Medium,0
+329,900,Rural,Low,Weak,6,quaterly,14,80000,1945,1352.1934924162056,Low,Not Patented,High,0
+330,3000,Urban,Medium,Weak,9,quaterly,44,180000,745,8535.421358523514,Low,Not Patented,Medium,1
+331,4200,Rural,High,Strong,4,yearly,2,180000,9001,2228.472696420331,High,Not Patented,Medium,1
+332,800,Rural,Low,Weak,5,weekly,50,80000,4933,7245.088717367356,High,Patented,High,0
+333,3900,Urban,Medium,Weak,1,yearly,14,180000,361,10039.648052052878,Medium,Patented,Low,1
+334,3400,Suburban,High,Strong,4,quaterly,20,20000,7969,11748.873765843131,Medium,Not Patented,High,1
+335,2200,Rural,High,Weak,9,yearly,2,120000,1321,7280.825596199555,Low,Not Patented,Medium,0
+336,700,Urban,Low,Strong,6,long term,20,40000,1501,10430.382811513768,Medium,Not Patented,Medium,1
+337,2900,Suburban,Medium,Weak,4,monthly,8,200000,3541,3830.0101952196105,High,Not Patented,Low,0
+338,2200,Urban,High,Strong,9,long term,50,100000,601,7245.701673011824,High,Patented,High,1
+339,2000,Urban,High,Strong,9,yearly,26,60000,553,1562.5835253542396,High,Patented,Medium,0
+340,4600,Suburban,Medium,Weak,1,monthly,44,100000,7921,3056.6247447254364,High,Patented,High,0
+341,4100,Suburban,Medium,Strong,4,monthly,56,200000,4549,4721.163049145243,High,Not Patented,High,1
+342,600,Urban,Medium,Strong,3,long term,14,180000,7429,9760.665054890624,High,Patented,Low,1
+343,600,Suburban,High,Strong,1,long term,20,100000,1021,11520.929639704136,Low,Not Patented,Low,0
+344,1100,Suburban,High,Weak,5,yearly,2,40000,5245,9169.426353548537,Low,Patented,Low,0
+345,3600,Rural,Low,Strong,2,long term,8,100000,3109,8888.316509477998,High,Patented,High,1
+346,2800,Suburban,Low,Strong,9,yearly,32,180000,9505,1580.3877868448938,Low,Patented,High,0
+347,1800,Urban,High,Strong,1,yearly,56,120000,8749,1519.7335694272192,High,Patented,Low,1
+348,900,Rural,High,Weak,8,long term,8,80000,7969,9228.54118073071,Low,Patented,Medium,1
+349,4700,Suburban,Low,Strong,2,monthly,8,120000,2065,7280.825596199555,High,Patented,Low,1
+350,3800,Urban,Medium,Strong,4,yearly,20,80000,8041,440.67401625079935,High,Patented,Medium,1
+351,2200,Suburban,Medium,Weak,2,quaterly,20,200000,3601,8095.22376658436,Medium,Not Patented,Medium,0
+352,2900,Suburban,Medium,Strong,5,monthly,32,180000,4645,2467.6402554094057,Medium,Patented,Medium,0
+353,1600,Rural,Low,Weak,5,monthly,20,80000,1789,4828.142853011748,High,Patented,High,1
+354,500,Rural,Low,Strong,9,weekly,20,60000,4657,7275.868438211279,Low,Not Patented,Low,0
+355,4900,Urban,Low,Strong,9,weekly,38,60000,769,478.20221764895786,Medium,Patented,High,0
+356,800,Urban,Medium,Strong,1,quaterly,50,140000,6721,8983.064629923761,Medium,Not Patented,High,1
+357,2900,Rural,Medium,Weak,8,yearly,2,60000,6373,5808.372194938098,Medium,Patented,Low,0
+358,2700,Rural,Low,Weak,5,monthly,20,140000,6517,4625.1329942731945,High,Not Patented,High,1
+359,1400,Rural,Medium,Weak,3,long term,20,120000,9505,7578.048267895616,Low,Not Patented,High,1
+360,2400,Suburban,Medium,Strong,2,yearly,32,160000,661,10503.089465264773,High,Patented,High,0
+361,4000,Urban,High,Strong,7,monthly,50,140000,469,8364.14238267078,Low,Patented,Low,1
+362,3500,Urban,High,Weak,2,quaterly,26,120000,5065,10410.622308326116,Medium,Not Patented,Medium,1
+363,4600,Suburban,High,Weak,5,monthly,32,80000,7501,6034.470238788926,High,Patented,Low,0
+364,3500,Rural,Medium,Strong,7,quaterly,38,200000,2269,10430.382811513768,High,Patented,Low,1
+365,3000,Urban,Low,Weak,5,weekly,8,200000,5917,9945.01260793387,High,Patented,Medium,1
+366,4200,Suburban,Low,Weak,5,quaterly,14,200000,2545,9052.005032355755,Low,Patented,Medium,0
+367,4500,Rural,Low,Strong,4,yearly,8,160000,253,4828.142853011748,High,Patented,High,0
+368,1400,Urban,Medium,Weak,2,quaterly,14,40000,8653,640.4561011518839,High,Not Patented,Low,1
+369,4800,Urban,Medium,Strong,1,quaterly,44,80000,8173,1.0480458291090313,Low,Not Patented,High,1
+370,1900,Urban,Medium,Strong,7,yearly,26,200000,7633,4219.2007800769725,High,Not Patented,Low,1
+371,3300,Suburban,High,Strong,8,long term,2,40000,5365,5634.709963804775,Medium,Not Patented,Low,1
+372,1800,Rural,High,Weak,5,quaterly,56,80000,9853,2913.5111340804247,Medium,Patented,Low,0
+373,2700,Rural,Medium,Weak,7,weekly,44,20000,9781,9151.746273549414,Low,Patented,Medium,0
+374,700,Rural,High,Weak,9,monthly,44,140000,673,8861.508359014939,High,Patented,High,0
+375,4900,Suburban,Medium,Strong,7,monthly,26,120000,3409,5932.259273527854,Low,Patented,Medium,1
+376,2100,Urban,High,Strong,9,long term,44,20000,8905,2972.739005199201,Low,Not Patented,Low,1
+377,1200,Suburban,High,Weak,5,quaterly,2,60000,2245,704.4992316111242,Low,Patented,Low,0
+378,700,Urban,Medium,Strong,5,monthly,26,160000,8437,9381.064888987785,Low,Patented,Medium,1
+379,2200,Rural,Low,Weak,6,weekly,44,120000,5509,4946.297901384623,Medium,Patented,Medium,1
+380,800,Rural,Low,Weak,9,long term,56,140000,2293,3889.178786647248,Medium,Not Patented,High,1
+381,2000,Urban,High,Strong,4,monthly,26,120000,3745,5669.148437148494,High,Not Patented,Medium,0
+382,4400,Urban,Low,Weak,7,quaterly,50,160000,7705,3913.8479517827113,High,Not Patented,High,1
+383,4600,Suburban,Medium,Weak,2,weekly,26,80000,9349,3925.695062985305,High,Not Patented,High,1
+384,3400,Suburban,Medium,Weak,8,weekly,38,120000,625,6738.285055092175,Low,Not Patented,High,1
+385,800,Urban,High,Strong,4,monthly,8,40000,9589,1554.4570408824486,Low,Not Patented,High,1
+386,4400,Rural,Medium,Weak,2,weekly,56,120000,3925,1769.8708353373236,High,Not Patented,High,1
+387,4200,Rural,High,Strong,8,yearly,44,20000,433,6920.964427820418,High,Not Patented,High,1
+388,1500,Rural,High,Strong,3,weekly,20,160000,8701,6226.405279650847,Low,Patented,Low,1
+389,1200,Urban,Low,Weak,2,weekly,20,40000,205,7385.5011216429475,High,Not Patented,Medium,1
+390,1600,Rural,Medium,Strong,3,quaterly,56,60000,4813,500.23503851109774,High,Not Patented,Low,0
+391,4400,Rural,Low,Strong,4,long term,20,60000,9193,4172.0466915906645,Medium,Not Patented,High,1
+392,700,Rural,Medium,Weak,6,long term,50,80000,2005,2918.531082185958,Medium,Not Patented,Medium,1
+393,2000,Suburban,Low,Weak,2,weekly,50,140000,1597,361.54779156579644,High,Patented,Low,0
+394,900,Suburban,High,Weak,3,yearly,8,60000,4753,29.256676758543865,Low,Patented,High,0
+395,4100,Urban,Medium,Weak,6,quaterly,44,80000,7393,10238.251788888514,High,Patented,High,0
+396,1000,Urban,High,Strong,7,yearly,32,80000,1825,1769.8708353373236,Medium,Patented,High,0
+397,2100,Urban,High,Strong,4,quaterly,8,60000,7297,43.587204884967164,High,Not Patented,High,0
+398,2100,Urban,Medium,Strong,8,yearly,26,200000,9901,11504.753886555409,Low,Patented,High,1
+399,1400,Urban,High,Weak,9,yearly,56,60000,8257,4655.288676402192,High,Not Patented,Low,0
+400,3100,Suburban,Medium,Strong,3,weekly,8,140000,9325,8546.93680969594,High,Patented,Medium,1
+401,3200,Suburban,Medium,Weak,2,weekly,44,100000,9385,2467.6402554094057,Low,Patented,Low,1
+402,3400,Suburban,High,Weak,7,long term,26,180000,6121,3303.7912162423854,High,Patented,Low,1
+403,1400,Suburban,High,Strong,4,weekly,20,120000,4381,8836.334233363272,Medium,Not Patented,Medium,0
+404,3400,Rural,Low,Weak,1,long term,2,60000,2125,5634.709963804775,Low,Not Patented,Low,0
+405,4300,Suburban,Low,Strong,4,weekly,26,40000,4813,6034.470238788926,High,Not Patented,Low,0
+406,4000,Suburban,Medium,Strong,9,weekly,32,20000,7417,6579.830704773357,High,Patented,Medium,1
+407,1600,Suburban,Low,Weak,2,monthly,38,160000,1153,1554.4570408824486,High,Not Patented,High,0
+408,700,Suburban,Medium,Strong,3,monthly,38,60000,9181,8788.104541195145,Medium,Not Patented,Medium,0
+409,4600,Suburban,Medium,Weak,9,monthly,50,200000,8233,5923.285707102319,High,Not Patented,High,1
+410,3800,Urban,Low,Weak,7,weekly,56,180000,6289,5227.066806384205,Low,Not Patented,Low,0
+411,3100,Rural,High,Strong,3,long term,32,20000,9685,3443.1348343498553,Low,Patented,Medium,0
+412,2000,Suburban,High,Strong,3,monthly,50,160000,6325,4139.3827610269345,Medium,Not Patented,High,1
+413,3400,Urban,High,Weak,1,yearly,38,20000,2509,3908.947897907397,Low,Not Patented,High,1
+414,4200,Rural,Medium,Strong,2,weekly,20,40000,3193,180.70221607281843,High,Not Patented,High,1
+415,2100,Rural,High,Strong,4,yearly,44,40000,9397,2589.832562483265,High,Not Patented,Low,0
+416,500,Rural,High,Weak,3,monthly,26,160000,757,11454.806573075046,Low,Patented,Low,1
+417,600,Suburban,High,Weak,7,monthly,56,60000,277,4755.867549923478,Low,Not Patented,Low,0
+418,1200,Urban,Medium,Weak,2,yearly,20,80000,9205,3054.124968367224,Low,Patented,High,0
+419,3200,Rural,Low,Strong,6,yearly,32,160000,5089,1670.8477105462878,Low,Patented,Medium,1
+420,4500,Suburban,Low,Strong,7,quaterly,8,80000,2641,5417.537572221174,High,Not Patented,Low,1
+421,2600,Rural,High,Weak,1,quaterly,8,40000,9601,1769.3395035678632,High,Patented,Medium,0
+422,4300,Rural,High,Strong,3,yearly,38,160000,7573,1670.8477105462878,Medium,Not Patented,Medium,1
+423,4300,Suburban,Low,Weak,2,long term,32,60000,865,5634.709963804775,High,Not Patented,High,0
+424,4100,Urban,High,Weak,6,monthly,14,60000,7657,8282.740746330848,Medium,Not Patented,Low,0
+425,1100,Rural,High,Weak,7,monthly,14,140000,4453,9169.426353548537,High,Not Patented,High,1
+426,4400,Urban,High,Weak,8,yearly,38,100000,481,10605.033401243138,High,Not Patented,Medium,0
+427,3600,Suburban,Low,Weak,5,weekly,38,140000,3265,4495.146844599852,Medium,Patented,Medium,1
+428,4800,Suburban,High,Weak,3,weekly,32,200000,1849,8292.42947343008,High,Patented,Medium,1
+429,3600,Rural,Medium,Weak,5,long term,2,60000,745,5305.2698715346405,Low,Not Patented,Medium,0
+430,2600,Rural,Low,Strong,2,monthly,26,120000,3769,9445.865915404853,Low,Not Patented,High,1
+431,4200,Rural,High,Weak,2,long term,32,200000,1,9552.440072126512,Medium,Patented,Low,1
+432,1700,Suburban,Medium,Strong,4,monthly,44,140000,7765,4657.52860678256,High,Not Patented,Low,1
+433,2500,Urban,High,Weak,2,yearly,26,120000,7369,4595.515201292883,High,Not Patented,Low,1
+434,2600,Rural,High,Strong,9,yearly,56,60000,7837,4399.308343162816,High,Not Patented,High,0
+435,2400,Suburban,Medium,Weak,8,quaterly,38,60000,1177,7736.224685634981,High,Patented,Medium,1
+436,4200,Rural,Low,Weak,9,yearly,38,100000,5869,3099.6678474211144,High,Not Patented,High,1
+437,2600,Suburban,Low,Strong,8,weekly,2,20000,529,10334.611145306239,Medium,Patented,Medium,0
+438,3800,Rural,Medium,Weak,1,monthly,14,140000,9241,4764.660382584968,Low,Not Patented,Medium,1
+439,3600,Rural,Low,Weak,2,long term,50,140000,7897,1021.2270359783456,Medium,Patented,Medium,1
+440,4700,Rural,High,Weak,5,monthly,32,160000,2149,4606.739839207768,Low,Not Patented,Medium,0
+441,4200,Urban,Medium,Weak,1,yearly,44,120000,8485,7385.5011216429475,Low,Patented,Low,0
+442,1100,Rural,Medium,Weak,8,monthly,14,140000,6325,1854.467844629793,Medium,Not Patented,Low,0
+443,700,Suburban,Low,Strong,2,monthly,20,120000,7849,4069.3514103835223,High,Patented,High,0
+444,1800,Rural,Low,Weak,1,weekly,2,160000,9877,3860.453174420333,Medium,Patented,Medium,1
+445,2900,Suburban,High,Strong,5,weekly,38,140000,5017,3029.5913215928103,Low,Not Patented,High,0
+446,1200,Suburban,Medium,Strong,7,quaterly,50,200000,5437,8936.499021306294,High,Patented,Medium,1
+447,1900,Urban,Low,Strong,4,quaterly,8,180000,2101,1823.9178652456765,Medium,Patented,Low,1
+448,4100,Urban,Medium,Strong,4,long term,14,120000,3913,6189.691213268358,Medium,Patented,Medium,0
+449,800,Suburban,Low,Weak,7,monthly,8,60000,4141,3889.178786647248,Low,Patented,Low,1
+450,3800,Suburban,Low,Strong,6,monthly,32,40000,589,4079.7194935887283,Medium,Patented,Low,0
+451,1300,Urban,Medium,Weak,8,monthly,38,160000,805,6543.110662914633,Low,Patented,Medium,1
+452,700,Urban,Low,Strong,6,long term,2,20000,9709,10529.768356068225,High,Not Patented,Medium,0
+453,2600,Suburban,Medium,Strong,9,weekly,26,140000,2629,3291.0298453410364,Medium,Patented,Low,1
+454,2800,Rural,High,Strong,5,long term,8,140000,9433,2337.9640416166485,High,Patented,Low,1
+455,2200,Urban,Medium,Strong,3,yearly,14,80000,4357,2965.368058816051,Low,Patented,High,0
+456,2400,Urban,Medium,Strong,1,long term,26,20000,3733,7295.182013832307,High,Not Patented,High,0
+457,1300,Rural,High,Strong,3,yearly,56,100000,1993,4595.515201292883,Low,Not Patented,High,0
+458,2200,Rural,High,Strong,7,long term,26,80000,1081,6342.477711652884,High,Not Patented,Medium,0
+459,2700,Rural,Medium,Strong,7,long term,14,160000,6625,8531.681465436739,Medium,Patented,Medium,0
+460,1300,Urban,Medium,Strong,8,long term,38,140000,8845,5383.834141276825,Low,Patented,Low,1
+461,4600,Urban,Low,Weak,9,quaterly,38,120000,7105,11316.458889020883,Low,Patented,Medium,0
+462,3300,Rural,Medium,Strong,9,long term,56,60000,7825,3082.244086079772,Low,Patented,Medium,1
+463,4600,Rural,Low,Strong,7,monthly,20,100000,2245,8603.813410625224,Low,Patented,High,0
+464,2300,Urban,High,Strong,4,long term,2,100000,5917,3480.9498951436954,High,Not Patented,High,0
+465,4700,Urban,Medium,Weak,7,weekly,50,140000,4213,1147.084458375923,Medium,Not Patented,High,1
+466,3700,Suburban,Medium,Strong,8,long term,32,160000,1021,57.23952931162606,Low,Patented,High,0
+467,2800,Rural,Medium,Weak,3,long term,50,140000,4141,748.1997711638144,Medium,Not Patented,High,1
+468,4500,Suburban,High,Weak,4,weekly,8,100000,1369,8463.454191639798,Low,Not Patented,High,1
+469,600,Rural,Medium,Strong,8,quaterly,44,120000,9121,3572.799104720306,Medium,Patented,Medium,1
+470,3800,Suburban,Low,Strong,6,long term,26,120000,1333,9386.931978034787,Medium,Patented,Low,0
+471,4800,Urban,Low,Strong,2,quaterly,8,60000,7417,6935.743488956155,Low,Patented,Medium,1
+472,1800,Rural,Medium,Strong,3,yearly,32,140000,7453,2765.0834762458003,Medium,Not Patented,Medium,1
+473,2500,Urban,Low,Weak,2,quaterly,14,40000,1093,3449.1582599368153,Low,Not Patented,High,1
+474,3600,Urban,High,Weak,2,weekly,26,60000,6505,1713.8394983777036,Medium,Patented,Medium,1
+475,4000,Urban,Medium,Weak,7,weekly,8,200000,2869,8384.333693638247,Low,Not Patented,Medium,0
+476,4600,Urban,Low,Weak,4,monthly,32,120000,3373,6173.57962595596,Low,Patented,High,1
+477,2900,Rural,Medium,Strong,5,quaterly,44,40000,7093,9297.73320812068,Medium,Patented,Low,0
+478,4500,Urban,High,Strong,3,quaterly,50,200000,6769,8878.137835972353,High,Patented,Medium,0
+479,2500,Suburban,Medium,Strong,9,quaterly,32,140000,6253,6034.470238788926,Medium,Not Patented,High,0
+480,2700,Rural,Low,Weak,2,yearly,2,20000,8665,9327.626095410797,Low,Patented,High,0
+481,4300,Suburban,Low,Strong,7,yearly,14,120000,73,8603.813410625224,Medium,Patented,Low,0
+482,3600,Rural,Low,Strong,4,long term,38,100000,181,5618.987948826177,Medium,Not Patented,Low,1
+483,4300,Urban,High,Strong,2,monthly,38,60000,985,3908.947897907397,High,Patented,Medium,1
+484,4800,Urban,Medium,Weak,1,quaterly,2,80000,1141,4513.213534638833,Medium,Patented,Medium,1
+485,3100,Rural,Medium,Strong,4,yearly,14,140000,349,1644.414385031699,High,Patented,Medium,1
+486,500,Suburban,Medium,Weak,5,yearly,50,200000,1705,10098.340743344947,Medium,Not Patented,Medium,1
+487,3300,Urban,Low,Strong,5,monthly,32,80000,8749,7406.95431057952,High,Patented,High,1
+488,2200,Urban,Low,Weak,3,long term,8,40000,6289,7513.534305113428,High,Not Patented,High,1
+489,1800,Suburban,High,Strong,1,quaterly,2,20000,7777,9500.568899974001,Low,Not Patented,Medium,0
+490,2200,Urban,Low,Strong,3,weekly,44,140000,3457,936.532448531366,High,Patented,High,1
+491,2200,Suburban,High,Weak,5,monthly,32,100000,1621,2852.1733306242863,Low,Patented,High,0
+492,2100,Urban,Low,Weak,3,weekly,44,60000,2773,7246.577365466224,Medium,Patented,Medium,1
+493,4600,Suburban,Medium,Weak,5,quaterly,32,40000,8665,9077.647297746767,Medium,Patented,Medium,1
+494,3900,Urban,High,Strong,3,quaterly,50,200000,1081,6579.830704773357,Medium,Patented,Medium,0
+495,3400,Suburban,Low,Strong,4,monthly,2,40000,385,5540.352220906419,Low,Not Patented,Medium,1
+496,4900,Suburban,Medium,Strong,9,quaterly,56,60000,5209,1600.7900122321885,High,Not Patented,Low,0
+497,3600,Urban,Low,Weak,7,quaterly,8,120000,1729,9958.328700016507,Low,Not Patented,Medium,1
+498,500,Rural,Low,Strong,1,long term,56,100000,9025,5581.466419232487,Medium,Not Patented,High,0
+499,1600,Urban,Low,Strong,1,yearly,56,160000,7153,1554.4570408824486,Low,Patented,Medium,0
+500,1700,Rural,High,Weak,8,yearly,14,120000,877,8454.066892546318,High,Patented,Low,1
+501,3600,Urban,Medium,Strong,9,weekly,50,100000,2077,10430.382811513768,High,Patented,Low,0
+502,4600,Suburban,Medium,Strong,4,quaterly,26,100000,1609,3532.014888786373,Medium,Not Patented,High,0
+503,4800,Suburban,High,Weak,4,monthly,50,140000,7729,5319.307000248845,High,Patented,High,1
+504,4800,Suburban,High,Weak,1,weekly,38,120000,5041,10605.033401243138,High,Not Patented,Low,1
+505,3000,Rural,Medium,Weak,2,quaterly,2,40000,3253,5077.051549872874,Low,Not Patented,Low,0
+506,3700,Suburban,Low,Strong,4,monthly,8,160000,3421,241.93675912656403,Low,Patented,Low,0
+507,3900,Urban,High,Weak,1,quaterly,14,100000,3997,936.532448531366,Low,Patented,Low,0
+508,4100,Rural,Low,Weak,7,monthly,2,80000,9265,5466.6139951304485,High,Patented,Low,1
+509,4300,Rural,Low,Strong,1,long term,2,140000,9673,1740.4189612941648,Low,Not Patented,Medium,0
+510,2100,Suburban,Medium,Strong,6,quaterly,14,20000,25,229.29527125477097,High,Patented,High,1
+511,1100,Rural,Medium,Weak,5,yearly,14,100000,9133,3629.9272185075006,Medium,Patented,Low,1
+512,2800,Urban,High,Weak,4,quaterly,26,100000,7333,2021.5344622781388,Low,Not Patented,Low,1
+513,1400,Urban,High,Weak,4,monthly,32,100000,3529,1070.7646334598571,Medium,Not Patented,Medium,1
+514,3600,Urban,Low,Strong,8,yearly,32,160000,6013,11053.59067181744,Medium,Patented,High,0
+515,1800,Rural,Medium,Strong,3,quaterly,38,60000,3025,4737.640384556615,High,Not Patented,Medium,0
+516,3300,Suburban,High,Strong,6,weekly,2,80000,9169,4721.163049145243,Low,Not Patented,Medium,0
+517,1400,Rural,Medium,Strong,9,yearly,2,60000,1249,2690.768207681993,Medium,Patented,Medium,0
+518,2700,Urban,Medium,Weak,8,monthly,2,140000,4021,6675.05616428751,Low,Not Patented,Medium,1
+519,1100,Rural,High,Strong,6,monthly,20,100000,8101,4183.843565018677,Low,Patented,Low,0
+520,3500,Suburban,Low,Strong,9,quaterly,14,180000,9349,7370.988372550123,High,Patented,Medium,0
+521,1500,Urban,Low,Weak,6,weekly,32,180000,7057,5679.373058877107,Medium,Not Patented,High,0
+522,4100,Rural,Medium,Strong,9,yearly,44,160000,8077,9297.73320812068,High,Not Patented,Low,1
+523,2400,Suburban,Low,Strong,8,long term,26,160000,2617,180.70221607281843,High,Not Patented,Medium,0
+524,3900,Suburban,Medium,Weak,2,yearly,38,120000,5269,1027.4809393763512,High,Not Patented,Low,1
+525,3800,Urban,Medium,Weak,1,quaterly,2,80000,5521,4588.706107065718,Low,Not Patented,Medium,0
+526,3600,Suburban,Medium,Strong,6,weekly,2,60000,9661,2204.216283389581,Low,Not Patented,Medium,0
+527,2700,Suburban,High,Strong,8,weekly,26,80000,7021,3832.9156088344944,Low,Not Patented,Low,0
+528,3800,Rural,Low,Weak,5,quaterly,14,20000,9385,5642.12817821556,Low,Not Patented,Low,1
+529,1000,Suburban,Low,Strong,9,quaterly,20,40000,7729,6226.405279650847,High,Patented,Low,1
+530,2600,Suburban,High,Strong,3,monthly,50,20000,4477,590.9871171461416,Medium,Patented,Medium,0
+531,3600,Suburban,High,Strong,9,yearly,14,60000,361,3913.8479517827113,High,Patented,High,0
+532,3900,Urban,High,Strong,7,weekly,44,160000,3025,7098.867845332602,Medium,Not Patented,Low,1
+533,4700,Rural,Medium,Strong,1,long term,2,160000,9325,3433.272055456904,Medium,Not Patented,High,0
+534,4600,Rural,Medium,Strong,2,weekly,38,160000,5257,8364.14238267078,High,Patented,Low,0
+535,3300,Urban,High,Weak,1,quaterly,32,80000,2821,4513.213534638833,Medium,Not Patented,High,0
+536,1100,Rural,High,Strong,7,monthly,2,40000,1489,6034.470238788926,Medium,Not Patented,High,0
+537,500,Rural,Medium,Weak,6,yearly,20,20000,8161,4575.515142697061,Low,Not Patented,Low,0
+538,4200,Rural,Medium,Strong,9,yearly,26,40000,6241,3551.8179584720574,High,Patented,Medium,1
+539,3400,Urban,Medium,Strong,4,yearly,38,160000,9349,4378.346743008001,High,Not Patented,Low,0
+540,4600,Suburban,Low,Weak,8,long term,8,40000,2353,9780.922302649882,Medium,Not Patented,Low,1
+541,3400,Suburban,Medium,Weak,4,long term,2,80000,5965,9045.308638573832,Medium,Patented,Low,0
+542,1500,Rural,Low,Weak,4,yearly,26,200000,1741,1805.6366227442718,Medium,Not Patented,Medium,0
+543,2800,Suburban,Low,Weak,3,weekly,26,120000,6841,805.9694210579657,Low,Not Patented,Medium,1
+544,1800,Suburban,High,Weak,7,weekly,32,120000,8365,7524.128972454495,Medium,Not Patented,Low,0
+545,4000,Urban,High,Weak,5,long term,56,40000,1237,7370.988372550123,Low,Not Patented,Low,0
+546,3400,Suburban,Medium,Weak,3,monthly,20,120000,9565,1448.5090030334395,High,Not Patented,Medium,1
+547,3100,Rural,Low,Strong,6,weekly,56,200000,1861,9186.573006851724,Medium,Not Patented,High,0
+548,2700,Rural,Low,Strong,8,monthly,32,60000,985,2228.472696420331,High,Patented,High,1
+549,900,Suburban,Medium,Weak,3,weekly,8,100000,5293,7923.2355087044725,High,Patented,Medium,1
+550,4400,Suburban,Medium,Weak,1,quaterly,32,20000,5293,7432.927532438207,Medium,Patented,High,1
+551,700,Suburban,Low,Strong,5,quaterly,2,120000,5929,6366.877002156354,Low,Patented,High,1
+552,1000,Rural,High,Weak,7,yearly,44,100000,661,10329.331260728723,High,Patented,Low,0
+553,3600,Urban,Low,Weak,6,weekly,20,120000,349,7100.23160399213,High,Patented,High,1
+554,4100,Rural,High,Strong,5,yearly,56,100000,8053,224.67830979832115,Low,Patented,Low,0
+555,2600,Urban,Medium,Strong,1,yearly,14,20000,6577,10018.532725027637,High,Patented,Low,1
+556,3100,Urban,Low,Strong,7,long term,8,80000,9565,10212.25788556883,Medium,Not Patented,High,0
+557,700,Rural,High,Strong,9,weekly,8,40000,3241,6034.335002430027,Medium,Patented,Low,0
+558,1700,Rural,High,Weak,1,quaterly,20,100000,5113,8779.05289553136,Low,Patented,Medium,0
+559,1100,Rural,High,Weak,6,long term,50,140000,757,4399.308343162816,High,Patented,Low,0
+560,3900,Suburban,Low,Strong,2,weekly,2,100000,8341,3883.6909738857485,Medium,Patented,Low,0
+561,2300,Suburban,Low,Strong,6,weekly,26,200000,1417,318.6911165744091,Medium,Patented,Low,1
+562,2200,Suburban,Low,Strong,1,quaterly,44,200000,7933,9664.638923109533,Medium,Patented,High,1
+563,2400,Suburban,Medium,Weak,1,long term,50,160000,7537,3846.1987421238273,Low,Patented,Low,0
+564,2400,Urban,Medium,Weak,8,quaterly,20,60000,4933,7233.7267543591515,Low,Not Patented,Medium,0
+565,1500,Suburban,Medium,Strong,2,long term,44,20000,9373,4497.216383250827,Low,Patented,High,1
+566,3700,Suburban,Low,Strong,3,long term,26,180000,3217,9272.227110397716,Low,Patented,High,1
+567,1800,Rural,Medium,Weak,2,quaterly,20,140000,7237,1805.6366227442718,High,Patented,Medium,1
+568,1300,Rural,Medium,Strong,1,quaterly,50,200000,7009,9490.63891013683,Medium,Not Patented,High,0
+569,2500,Urban,Low,Weak,7,monthly,2,60000,4237,3908.947897907397,High,Not Patented,Medium,1
+570,1900,Suburban,Medium,Strong,7,monthly,14,100000,5917,3883.6909738857485,High,Patented,Low,0
+571,1200,Urban,Low,Strong,5,monthly,38,200000,8413,5753.4621419907535,Medium,Not Patented,Low,0
+572,1600,Urban,Medium,Weak,5,long term,50,160000,9061,7785.14054386739,Low,Not Patented,High,0
+573,2600,Rural,Low,Weak,7,monthly,14,120000,5857,6150.340533964226,High,Not Patented,Low,1
+574,1400,Urban,High,Strong,8,weekly,14,60000,5221,11316.458889020883,Medium,Patented,Medium,0
+575,1300,Suburban,Medium,Weak,6,monthly,14,200000,913,5185.5839616444355,Medium,Not Patented,Medium,0
+576,2200,Rural,Medium,Strong,9,monthly,20,80000,7657,6187.171163663948,High,Patented,Low,1
+577,500,Urban,High,Weak,4,quaterly,14,160000,3661,8095.22376658436,Medium,Not Patented,High,0
+578,2000,Rural,Low,Strong,9,yearly,50,140000,9949,8911.24016990728,Low,Patented,High,1
+579,1300,Urban,Medium,Strong,2,weekly,2,180000,7369,2695.6544821317293,Low,Patented,Medium,0
+580,2700,Suburban,Medium,Strong,4,monthly,32,20000,4933,8603.813410625224,Low,Patented,Low,1
+581,2000,Rural,Low,Weak,2,monthly,26,160000,6877,4826.64773168654,Low,Not Patented,Medium,1
+582,4500,Urban,High,Weak,1,monthly,56,20000,5689,1461.600297064704,High,Not Patented,Medium,1
+583,4600,Rural,High,Weak,2,yearly,32,20000,6241,1444.6020741684952,High,Patented,Low,0
+584,2900,Urban,High,Weak,3,monthly,26,80000,3781,1769.3395035678632,Medium,Not Patented,High,0
+585,4700,Urban,Low,Weak,6,quaterly,44,80000,6841,6427.626621361103,Low,Patented,High,0
+586,3400,Rural,High,Weak,1,yearly,26,180000,973,11053.59067181744,High,Not Patented,Low,0
+587,1100,Rural,High,Weak,3,monthly,44,200000,2185,472.45428411226777,Medium,Patented,High,1
+588,4900,Urban,High,Strong,8,monthly,32,120000,8305,10459.21366001524,High,Patented,High,1
+589,1300,Suburban,High,Weak,2,long term,20,120000,4861,1252.386079451814,Medium,Patented,High,1
+590,500,Rural,Medium,Strong,4,monthly,56,80000,4909,4588.706107065718,High,Patented,High,1
+591,500,Suburban,Low,Weak,8,monthly,26,20000,6253,1038.639756171953,High,Patented,High,1
+592,3500,Suburban,High,Strong,5,weekly,32,60000,7009,7633.654478316281,Medium,Patented,High,1
+593,1900,Suburban,Medium,Strong,4,weekly,50,140000,901,229.29527125477097,High,Not Patented,Medium,0
+594,800,Urban,High,Weak,6,long term,8,160000,3577,10098.340743344947,Low,Not Patented,Low,0
+595,1600,Rural,Medium,Weak,6,quaterly,38,40000,6613,4647.944892442728,Medium,Patented,Low,0
+596,3400,Urban,Medium,Strong,7,long term,2,180000,877,8696.7591008258,Medium,Patented,Low,1
+597,4800,Urban,Low,Weak,7,quaterly,2,180000,9433,3629.9272185075006,Medium,Not Patented,Low,0
+598,3600,Rural,Medium,Strong,6,quaterly,32,140000,2401,6473.636962104095,High,Patented,Low,0
+599,500,Urban,Low,Weak,4,monthly,32,80000,1369,5735.6135270171,Low,Patented,Medium,1
+600,2700,Urban,Medium,Strong,9,long term,8,100000,3493,2353.1174477125487,Low,Not Patented,Medium,0
+601,4300,Urban,High,Weak,8,long term,26,120000,8929,11238.250351340825,Medium,Patented,Medium,1
+602,3100,Suburban,Low,Weak,9,long term,20,40000,1177,3830.0101952196105,High,Patented,High,0
+603,4600,Suburban,Low,Strong,2,yearly,26,160000,8221,932.0481493708188,Low,Patented,Low,1
+604,1000,Urban,Medium,Weak,4,weekly,8,180000,25,1423.76251342889,Medium,Not Patented,Medium,1
+605,1100,Suburban,Low,Strong,2,long term,50,80000,2869,2248.8619216419957,High,Patented,Low,0
+606,3600,Suburban,Medium,Weak,9,quaterly,26,140000,4909,10173.51871793595,Low,Not Patented,High,1
+607,1100,Suburban,Medium,Strong,4,monthly,8,100000,733,8106.603426734966,High,Patented,High,0
+608,3500,Urban,High,Strong,4,monthly,8,20000,3613,704.4992316111242,Medium,Patented,High,0
+609,4900,Suburban,Low,Weak,1,yearly,26,200000,313,4873.176272222715,Medium,Patented,Medium,1
+610,3000,Rural,Low,Weak,1,yearly,56,60000,7765,6239.095660335198,High,Patented,High,0
+611,700,Rural,Medium,Weak,7,yearly,38,20000,9841,2266.8845091271905,Medium,Not Patented,Medium,0
+612,2400,Urban,Low,Strong,8,monthly,50,120000,349,4765.4578182928735,Medium,Not Patented,Low,1
+613,1200,Rural,Medium,Strong,2,long term,32,40000,1177,6884.001467683928,High,Not Patented,High,1
+614,2100,Rural,Low,Strong,1,weekly,2,100000,6973,4544.824339162676,Low,Patented,High,0
+615,3700,Rural,Low,Strong,4,weekly,26,180000,7153,142.5749626505576,High,Not Patented,High,0
+616,2200,Rural,High,Weak,1,weekly,26,80000,9469,6972.805792396157,High,Not Patented,High,1
+617,1300,Urban,Low,Strong,3,long term,44,160000,1525,10173.51871793595,Low,Not Patented,Low,1
+618,3500,Suburban,Medium,Strong,5,yearly,20,40000,1201,1129.1991682705784,High,Patented,Medium,0
+619,2800,Urban,Medium,Weak,5,yearly,32,40000,1033,10844.938644930022,High,Not Patented,Low,0
+620,800,Rural,Medium,Strong,3,yearly,56,120000,721,3759.726482056619,High,Patented,High,0
+621,2700,Rural,High,Strong,5,yearly,50,160000,9817,4737.640384556615,Medium,Not Patented,Low,1
+622,4200,Suburban,Medium,Weak,3,quaterly,44,140000,4957,4059.709869579728,High,Not Patented,Low,0
+623,3000,Suburban,Low,Weak,9,yearly,50,20000,2137,1818.4864269355232,High,Patented,Medium,1
+624,2400,Suburban,Medium,Weak,5,monthly,2,120000,997,4711.434062493966,Medium,Not Patented,Low,1
+625,3400,Suburban,High,Strong,6,weekly,20,20000,2305,6473.47903826226,High,Not Patented,Low,1
+626,1800,Rural,Low,Weak,7,long term,56,60000,2389,5839.108646274625,Medium,Not Patented,Low,0
+627,3200,Rural,Medium,Weak,8,monthly,50,80000,829,7999.517077070773,Medium,Patented,Low,0
+628,1400,Rural,Low,Strong,6,yearly,20,140000,2821,3029.5913215928103,Low,Patented,Medium,1
+629,3300,Rural,Low,Weak,2,yearly,20,60000,4837,7307.056988934039,Low,Patented,Medium,1
+630,3000,Rural,Low,Strong,8,yearly,44,100000,4645,9356.431901569953,High,Not Patented,High,1
+631,3600,Rural,Medium,Weak,7,weekly,8,160000,2893,4513.213534638833,Low,Patented,High,1
+632,500,Rural,Medium,Weak,3,monthly,32,20000,3553,9228.54118073071,Low,Patented,High,0
+633,1500,Rural,Medium,Strong,3,weekly,32,20000,6553,10250.569389015562,High,Not Patented,High,0
+634,1700,Suburban,Low,Strong,3,quaterly,26,20000,6253,10565.56473952949,Medium,Not Patented,High,0
+635,4500,Rural,Medium,Weak,3,monthly,56,40000,5017,2167.1447975618776,Low,Not Patented,Low,1
+636,3500,Suburban,Medium,Strong,7,weekly,2,200000,4417,9281.251129348522,Low,Patented,Medium,1
+637,3300,Suburban,High,Strong,6,weekly,8,180000,6301,713.3294206516641,Low,Patented,Low,0
+638,2500,Urban,Low,Strong,4,weekly,8,200000,2461,463.52089651992515,High,Patented,Medium,0
+639,2800,Rural,High,Weak,3,quaterly,2,120000,4321,7397.69417220844,High,Patented,Medium,1
+640,4300,Rural,Low,Weak,4,quaterly,8,100000,4465,10717.305746191343,Low,Not Patented,Low,1
+641,4400,Suburban,High,Strong,2,yearly,26,100000,9493,3635.9667596115514,Medium,Patented,Medium,1
+642,2200,Rural,Low,Weak,5,weekly,20,160000,8425,6702.145305624602,Medium,Not Patented,Medium,0
+643,3200,Urban,Low,Weak,9,yearly,50,160000,7393,7233.7267543591515,Low,Patented,Medium,0
+644,1500,Urban,Low,Strong,7,quaterly,56,140000,6541,2228.472696420331,Low,Patented,Medium,0
+645,4900,Suburban,High,Strong,4,long term,8,160000,3661,8704.587776772658,Medium,Patented,Medium,0
+646,2800,Suburban,Low,Strong,4,quaterly,44,200000,829,1700.3149836932182,High,Not Patented,Medium,0
+647,3900,Urban,Medium,Weak,8,long term,50,160000,2905,1569.623219996143,Low,Not Patented,High,1
+648,3000,Suburban,Medium,Weak,1,yearly,44,80000,5917,3449.1582599368153,Medium,Not Patented,High,0
+649,1400,Suburban,Medium,Strong,2,long term,26,200000,145,9603.059087023032,Medium,Patented,Medium,1
+650,1500,Rural,High,Strong,2,yearly,32,120000,5257,6342.477711652884,High,Patented,Medium,0
+651,3800,Rural,Medium,Strong,1,monthly,38,140000,805,5628.0689210873,High,Not Patented,Medium,0
+652,4000,Suburban,Medium,Weak,3,long term,8,180000,2737,6211.095049345024,Low,Patented,Medium,0
+653,800,Suburban,High,Strong,8,quaterly,2,100000,6493,7683.948072704006,High,Not Patented,High,0
+654,1000,Urban,Low,Weak,3,long term,38,20000,6805,1019.803238604808,Low,Not Patented,Low,1
+655,1700,Rural,Low,Strong,5,quaterly,56,160000,2233,10529.768356068225,High,Not Patented,Medium,0
+656,1100,Suburban,High,Strong,8,monthly,14,140000,9289,126.60006972102698,Low,Patented,High,0
+657,3100,Rural,Medium,Weak,7,yearly,26,140000,6265,2353.1174477125487,Medium,Not Patented,Low,1
+658,3600,Rural,Medium,Strong,7,quaterly,14,160000,9553,4606.739839207768,High,Patented,Low,1
+659,2800,Suburban,Low,Strong,4,long term,50,120000,5593,126.60006972102698,Medium,Not Patented,High,1
+660,900,Urban,High,Strong,6,long term,44,80000,4789,7824.666287805483,Medium,Not Patented,High,0
+661,2300,Suburban,High,Strong,5,weekly,2,80000,7813,9151.746273549414,High,Patented,Low,1
+662,4400,Suburban,Medium,Strong,4,weekly,20,80000,6481,5821.668889118867,High,Patented,Medium,1
+663,2700,Rural,Low,Strong,2,long term,44,40000,5149,5932.259273527854,Medium,Not Patented,Medium,1
+664,2900,Suburban,High,Strong,2,yearly,2,180000,9877,10190.430537280652,Low,Not Patented,Low,0
+665,2000,Urban,Low,Strong,5,monthly,32,20000,1189,290.3405495261908,Low,Not Patented,Medium,0
+666,3700,Rural,High,Strong,6,monthly,14,140000,2041,5083.483463724526,Medium,Not Patented,Low,1
+667,1100,Urban,Low,Strong,7,yearly,32,80000,1069,7785.14054386739,Medium,Not Patented,Medium,0
+668,3500,Rural,High,Weak,6,quaterly,50,200000,2557,363.77054075739056,Low,Not Patented,High,0
+669,700,Rural,High,Weak,5,yearly,56,40000,1333,224.67830979832115,Medium,Not Patented,Low,0
+670,3800,Suburban,Medium,Weak,8,weekly,38,60000,9661,500.23503851109774,Medium,Not Patented,High,1
+671,1600,Suburban,Medium,Weak,8,monthly,14,40000,4501,8531.681465436739,High,Not Patented,Medium,1
+672,500,Suburban,Medium,Strong,4,weekly,2,100000,3745,1569.623219996143,Medium,Not Patented,Low,0
+673,1600,Urban,Medium,Weak,6,yearly,50,180000,8569,7375.068607928121,Low,Patented,Low,0
+674,1300,Suburban,High,Strong,5,yearly,32,120000,7477,6838.135774048821,High,Patented,Medium,0
+675,3200,Suburban,High,Strong,3,quaterly,26,60000,9805,7459.605267906128,High,Not Patented,High,1
+676,2400,Rural,High,Strong,9,long term,14,160000,7285,1323.4162697847173,High,Not Patented,Medium,1
+677,4900,Rural,Medium,Strong,8,monthly,32,80000,3877,2997.694476832655,High,Patented,High,0
+678,700,Urban,High,Strong,8,quaterly,20,40000,529,4366.9992320433985,Low,Not Patented,Low,1
+679,4600,Rural,Medium,Weak,3,yearly,14,120000,8509,5812.068237007903,Low,Not Patented,Medium,0
+680,4900,Rural,High,Weak,8,quaterly,8,60000,8917,6217.488384488909,Low,Not Patented,Medium,1
+681,700,Urban,Medium,Weak,5,monthly,8,20000,5917,10335.538479207009,Low,Not Patented,Medium,1
+682,1900,Rural,High,Weak,3,yearly,50,80000,961,8439.177622189924,High,Patented,High,0
+683,1400,Urban,Medium,Weak,1,weekly,44,140000,5773,6259.433501298434,Low,Patented,Low,1
+684,1800,Rural,Medium,Weak,1,weekly,14,100000,8605,8439.177622189924,High,Patented,Low,0
+685,1300,Urban,Low,Weak,4,quaterly,20,80000,5629,3662.9297903581423,Low,Patented,High,0
+686,3900,Rural,High,Strong,8,monthly,50,80000,265,2612.408119241799,Medium,Not Patented,High,1
+687,4800,Rural,Low,Strong,2,quaterly,32,60000,493,5268.578898587949,High,Not Patented,Medium,0
+688,2300,Suburban,Medium,Strong,9,weekly,50,20000,3265,2170.2282796487716,High,Not Patented,Medium,1
+689,1900,Urban,Medium,Strong,7,monthly,26,60000,5317,3433.272055456904,High,Patented,High,1
+690,1800,Rural,Medium,Weak,6,monthly,32,140000,6961,590.9871171461416,Low,Patented,Medium,1
+691,600,Suburban,Medium,Strong,8,yearly,56,40000,9529,4007.1851236525827,Medium,Patented,Low,1
+692,2600,Urban,Medium,Weak,3,weekly,44,180000,181,3905.4425220854882,Low,Patented,Low,1
+693,2200,Rural,High,Weak,4,long term,50,120000,9901,2459.111867327343,Medium,Not Patented,Low,1
+694,1600,Suburban,Low,Strong,9,yearly,56,160000,6673,1768.1208898987818,Medium,Patented,Low,1
+695,2100,Urban,High,Strong,4,yearly,38,200000,7201,7108.640412331946,Medium,Patented,High,0
+696,3900,Urban,Medium,Strong,9,weekly,20,120000,2713,10529.768356068225,Low,Patented,Medium,0
+697,1500,Rural,High,Weak,2,quaterly,2,20000,9481,6342.477711652884,Low,Patented,High,0
+698,2100,Urban,Low,Weak,6,long term,2,200000,745,3508.2681676220227,Low,Patented,Medium,1
+699,1400,Suburban,High,Strong,9,monthly,20,120000,6973,5540.352220906419,Low,Patented,High,1
+700,4800,Suburban,High,Strong,2,quaterly,14,180000,9793,2135.294317737561,Low,Not Patented,High,1
+701,3700,Urban,Low,Weak,4,long term,14,180000,5365,3053.1031047486745,Medium,Patented,Medium,1
+702,1100,Urban,High,Weak,3,yearly,20,160000,1561,4518.034036109267,High,Patented,Medium,0
+703,3500,Urban,High,Weak,5,monthly,32,80000,6013,6443.932748505622,High,Not Patented,Medium,1
+704,2200,Suburban,Medium,Weak,2,monthly,8,20000,6733,7513.534305113428,Medium,Not Patented,Low,0
+705,2000,Suburban,Low,Weak,6,weekly,8,160000,8557,5656.020831852917,High,Patented,High,1
+706,800,Urban,Low,Strong,1,weekly,44,160000,253,8642.083389209867,Medium,Not Patented,Low,0
+707,2900,Rural,High,Weak,4,yearly,8,120000,5497,7375.068607928121,Low,Not Patented,Low,0
+708,2200,Urban,High,Weak,5,yearly,32,200000,4537,10349.087799327714,Medium,Not Patented,High,1
+709,4500,Rural,Low,Weak,4,quaterly,56,120000,8653,1670.8477105462878,Low,Patented,Medium,1
+710,1100,Urban,Low,Weak,8,long term,2,60000,73,7058.888590320224,High,Not Patented,Low,1
+711,3200,Urban,Medium,Weak,2,quaterly,50,60000,6097,5142.690640641258,Low,Patented,High,1
+712,4000,Rural,Medium,Strong,3,yearly,32,100000,5797,10169.628017969313,Medium,Not Patented,Medium,1
+713,700,Suburban,High,Weak,2,weekly,20,80000,8053,5948.244852537284,Medium,Patented,High,0
+714,2500,Urban,Medium,Strong,3,quaterly,50,160000,829,478.20221764895786,High,Patented,Medium,0
+715,3500,Rural,Medium,Strong,9,monthly,14,200000,1801,2343.733491639832,Medium,Patented,Medium,1
+716,3700,Rural,Low,Weak,7,weekly,2,180000,5593,2132.393949027539,Medium,Not Patented,High,0
+717,3000,Suburban,High,Strong,1,long term,2,80000,9085,11529.048993968705,Low,Not Patented,High,0
+718,1600,Rural,High,Weak,9,monthly,26,140000,9721,1189.3475635940015,Low,Patented,High,0
+719,2000,Suburban,High,Weak,4,monthly,26,140000,7465,9727.533491744822,Medium,Patented,Low,0
+720,3800,Rural,Low,Weak,8,monthly,8,160000,6385,4072.084266098231,Low,Not Patented,Medium,1
+721,700,Urban,Low,Strong,7,yearly,38,140000,3169,5581.466419232487,Medium,Not Patented,High,0
+722,1900,Rural,Medium,Strong,4,yearly,14,40000,7873,6256.186054514222,Medium,Not Patented,High,1
+723,4300,Urban,Medium,Strong,5,yearly,32,60000,481,7211.648498751112,Low,Not Patented,Low,1
+724,1300,Suburban,Low,Weak,7,quaterly,56,40000,6565,10940.051708245855,Low,Not Patented,Medium,1
+725,4700,Rural,Medium,Strong,2,long term,38,20000,3289,11591.11635376065,High,Not Patented,Medium,1
+726,700,Urban,Medium,Weak,6,weekly,56,80000,1621,8380.624905217039,Low,Patented,Medium,1
+727,1200,Rural,Low,Strong,6,weekly,56,40000,3949,4449.283516212197,Low,Patented,High,1
+728,2300,Rural,High,Weak,1,yearly,8,180000,1117,10090.487425121777,High,Patented,High,0
+729,2300,Rural,High,Weak,7,yearly,26,60000,3361,9464.553438826573,Low,Not Patented,Low,1
+730,900,Rural,Low,Weak,8,monthly,26,160000,7213,9619.300535105587,Medium,Not Patented,Medium,1
+731,1500,Rural,High,Weak,8,yearly,26,200000,2065,5747.029606517112,Low,Not Patented,Low,0
+732,4000,Suburban,Medium,Strong,2,quaterly,8,120000,9385,5735.6135270171,High,Patented,High,0
+733,2600,Rural,High,Strong,5,quaterly,8,160000,8965,8079.127906218288,High,Not Patented,Medium,1
+734,2900,Urban,High,Weak,5,monthly,8,200000,6157,10529.768356068225,Medium,Not Patented,High,0
+735,500,Suburban,Medium,Weak,6,quaterly,20,20000,2485,3480.9498951436954,Low,Patented,Medium,1
+736,4100,Suburban,Low,Strong,7,monthly,44,180000,6265,535.4351530967222,High,Patented,Medium,1
+737,1600,Suburban,Medium,Weak,4,long term,8,120000,6613,4059.709869579728,Medium,Not Patented,Medium,1
+738,2900,Suburban,Low,Strong,2,yearly,26,160000,2701,5466.6139951304485,Medium,Not Patented,Medium,1
+739,4000,Suburban,High,Weak,7,monthly,8,100000,2893,6658.59791282304,High,Not Patented,High,0
+740,4900,Urban,Low,Weak,7,yearly,38,60000,7741,8688.132068402314,Medium,Patented,Low,0
+741,1800,Suburban,Low,Strong,8,weekly,38,20000,5761,7692.455443649564,Low,Patented,Low,0
+742,1600,Urban,Medium,Strong,1,yearly,44,40000,7117,2489.885703862365,Medium,Patented,High,0
+743,4600,Rural,High,Strong,2,long term,44,120000,1369,10334.611145306239,High,Patented,High,1
+744,4900,Suburban,Medium,Strong,8,yearly,44,100000,793,9552.440072126512,Low,Not Patented,Medium,0
+745,2600,Suburban,Low,Weak,6,weekly,44,140000,8785,3679.946441486998,Medium,Not Patented,Medium,1
+746,500,Rural,Medium,Weak,6,long term,56,100000,3685,9775.531292609134,Low,Not Patented,High,1
+747,2700,Rural,High,Weak,4,quaterly,44,140000,2281,5913.731149684709,High,Not Patented,Low,0
+748,2800,Urban,Medium,Strong,8,quaterly,14,100000,901,9583.343029433918,Low,Patented,Low,1
+749,4700,Urban,Medium,Weak,3,quaterly,14,20000,6721,8018.789412331191,High,Not Patented,Low,0
+750,4500,Rural,High,Strong,4,monthly,26,60000,9145,583.9347753997813,Medium,Not Patented,High,0
+751,700,Suburban,High,Weak,9,quaterly,20,120000,7657,2913.5111340804247,Low,Not Patented,Low,1
+752,1500,Suburban,Medium,Strong,6,weekly,44,100000,3385,4588.706107065718,High,Patented,High,0
+753,1700,Rural,High,Weak,1,weekly,56,160000,7141,1027.4809393763512,Low,Not Patented,High,0
+754,2400,Suburban,High,Strong,3,quaterly,20,200000,7561,834.8733517085477,Medium,Not Patented,High,0
+755,3800,Urban,High,Strong,3,monthly,38,80000,1345,350.6251810582365,Medium,Patented,High,1
+756,4500,Rural,Low,Weak,5,monthly,50,40000,5185,3053.1031047486745,Low,Not Patented,Medium,1
+757,3800,Urban,High,Weak,9,yearly,26,180000,1069,11520.929639704136,High,Patented,Medium,1
+758,3000,Suburban,High,Strong,4,weekly,38,40000,2773,6838.135774048821,Low,Not Patented,Medium,1
+759,2900,Suburban,High,Weak,3,quaterly,56,40000,73,4059.709869579728,High,Patented,High,0
+760,3600,Urban,Low,Strong,9,long term,20,120000,7117,6801.065047023957,High,Patented,High,1
+761,4100,Rural,High,Strong,6,monthly,44,120000,2509,1323.4162697847173,Low,Patented,Medium,0
+762,3400,Suburban,Medium,Strong,1,monthly,50,140000,1957,1019.803238604808,High,Patented,Medium,0
+763,2300,Suburban,Low,Weak,9,quaterly,38,100000,3661,5127.218795254606,Low,Patented,Medium,0
+764,4300,Suburban,High,Strong,1,monthly,14,60000,7621,1300.762455391402,Low,Patented,Medium,0
+765,2400,Urban,Medium,Weak,8,long term,2,80000,8713,463.52089651992515,High,Not Patented,Medium,0
+766,800,Suburban,Medium,Weak,1,monthly,56,100000,2029,3508.2681676220227,High,Patented,High,1
+767,500,Suburban,High,Weak,3,quaterly,56,100000,6217,5840.862372734774,Low,Not Patented,Medium,0
+768,900,Rural,Medium,Weak,5,quaterly,2,40000,2821,1677.0588525254175,Medium,Patented,Medium,1
+769,3000,Urban,Medium,Weak,3,yearly,50,120000,7561,2337.1675807637266,Low,Not Patented,Low,0
+770,3600,Rural,Medium,Strong,2,long term,20,200000,9925,5912.104716416875,Medium,Not Patented,High,1
+771,3800,Suburban,Medium,Strong,7,weekly,8,180000,5053,5982.336617686199,Low,Not Patented,Medium,0
+772,4100,Suburban,Low,Weak,8,weekly,20,120000,1825,3990.190224151051,Low,Patented,Low,0
+773,1000,Urban,Medium,Strong,7,long term,2,120000,4789,6543.110662914633,High,Not Patented,High,1
+774,4600,Rural,Medium,Weak,1,weekly,14,200000,4669,9818.904459651067,Medium,Not Patented,High,1
+775,4700,Urban,Medium,Weak,1,long term,50,160000,3013,5618.987948826177,Medium,Patented,High,1
+776,3700,Suburban,Low,Strong,2,weekly,20,200000,6721,8164.325051784995,Medium,Patented,High,0
+777,3300,Rural,High,Strong,8,weekly,38,80000,7633,3832.9156088344944,Medium,Not Patented,High,0
+778,1600,Suburban,Low,Weak,7,monthly,32,120000,181,9922.207201969219,Medium,Patented,High,1
+779,4700,Rural,High,Weak,6,yearly,20,80000,7033,9512.122454771743,High,Not Patented,Low,1
+780,4200,Rural,Low,Weak,2,yearly,38,140000,757,3425.8351442281964,Medium,Not Patented,High,1
+781,3600,Urban,Medium,Weak,2,quaterly,44,20000,5617,4765.4578182928735,Medium,Patented,Medium,1
+782,4500,Suburban,High,Weak,1,quaterly,44,60000,6289,9297.73320812068,Medium,Patented,Low,1
+783,2500,Suburban,Medium,Weak,3,long term,56,100000,2701,7999.517077070773,Low,Patented,Low,0
+784,3100,Suburban,High,Weak,6,weekly,14,100000,7273,5691.355578918074,Medium,Not Patented,Medium,1
+785,1100,Suburban,High,Weak,3,quaterly,26,140000,4477,2249.772388229454,Medium,Patented,Low,0
+786,3600,Urban,High,Strong,9,long term,38,80000,9901,1454.4037440234863,Low,Not Patented,Low,1
+787,3400,Urban,High,Weak,3,weekly,26,100000,5917,5589.49218952872,High,Patented,Low,0
+788,2100,Urban,Medium,Weak,8,weekly,20,80000,5269,1181.5759420145066,Medium,Not Patented,High,1
+789,3600,Suburban,High,Weak,6,monthly,2,100000,4993,5913.731149684709,Low,Not Patented,Medium,1
+790,4500,Urban,Low,Strong,4,weekly,2,200000,4237,7560.033987758782,Low,Not Patented,Medium,1
+791,700,Rural,Low,Weak,3,weekly,8,200000,9901,8359.857192797423,High,Patented,Medium,1
+792,2500,Suburban,Low,Strong,2,weekly,20,160000,6697,6811.546335235784,Medium,Not Patented,Medium,1
+793,2600,Urban,Low,Strong,8,weekly,44,60000,2449,1.0480458291090313,High,Not Patented,Low,0
+794,2100,Suburban,Medium,Weak,8,long term,44,80000,4741,583.9347753997813,Medium,Patented,Medium,1
+795,1500,Suburban,Medium,Weak,7,monthly,26,20000,5713,5335.940558346012,Low,Not Patented,Low,1
+796,2400,Urban,Low,Weak,8,monthly,2,100000,6877,11225.664275667063,High,Not Patented,Low,1
+797,3000,Urban,Medium,Strong,8,quaterly,14,20000,5581,1189.3475635940015,Low,Patented,Medium,1
+798,4100,Rural,Medium,Strong,3,weekly,26,140000,2497,2550.76451060924,Low,Patented,Medium,1
+799,3300,Rural,High,Weak,9,weekly,32,140000,8761,6947.450165835776,Low,Patented,Medium,1
+800,4200,Rural,Low,Weak,8,long term,32,200000,2377,7127.442155635648,Medium,Not Patented,Low,0
+801,1300,Suburban,Low,Weak,6,weekly,26,20000,4273,1700.3149836932182,Low,Patented,Medium,1
+802,4000,Rural,Medium,Strong,3,long term,32,20000,4237,10940.051708245855,Low,Patented,Low,1
+803,2400,Urban,High,Strong,5,weekly,2,40000,1501,5319.307000248845,Medium,Not Patented,Low,0
+804,3800,Rural,High,Strong,7,long term,2,80000,9925,9925.631469630398,High,Not Patented,High,0
+805,2200,Rural,High,Strong,3,yearly,50,160000,2677,7370.988372550123,Low,Not Patented,High,1
+806,3500,Rural,Medium,Weak,8,quaterly,2,200000,5221,6226.405279650847,Medium,Not Patented,High,1
+807,1800,Urban,Low,Strong,1,yearly,38,180000,5401,7824.666287805483,High,Not Patented,High,0
+808,4500,Rural,Medium,Strong,3,weekly,14,140000,6277,3846.1987421238273,Low,Not Patented,Medium,0
+809,600,Rural,Low,Weak,6,long term,26,200000,2557,4513.213534638833,Low,Patented,High,0
+810,2800,Suburban,Low,Strong,8,quaterly,20,160000,6205,8384.333693638247,Low,Patented,Low,1
+811,1700,Urban,Medium,Strong,1,monthly,32,200000,2989,8537.728108787645,High,Patented,High,1
+812,2000,Rural,High,Strong,2,monthly,14,40000,2557,6034.065458164094,Low,Patented,Medium,1
+813,2100,Suburban,High,Strong,1,weekly,8,40000,865,9242.84624278864,Low,Patented,Low,1
+814,2800,Suburban,Low,Strong,2,weekly,8,100000,1189,5837.303137919675,Medium,Patented,High,0
+815,2000,Urban,Low,Strong,9,yearly,38,160000,2749,2007.2055467822984,High,Patented,Low,1
+816,4900,Suburban,Medium,Strong,6,weekly,38,180000,3373,3358.770172065092,High,Not Patented,Medium,0
+817,1000,Rural,Low,Strong,6,yearly,26,160000,8221,10920.053633395944,High,Not Patented,Medium,1
+818,2700,Suburban,Medium,Weak,6,quaterly,44,160000,2761,350.6251810582365,High,Not Patented,High,0
+819,1500,Rural,High,Weak,5,monthly,14,60000,4849,9045.308638573832,Medium,Patented,Low,1
+820,2400,Rural,Medium,Weak,3,quaterly,50,60000,9901,2248.8619216419957,Medium,Not Patented,Medium,0
+821,3300,Suburban,High,Weak,7,weekly,14,120000,4897,5411.920893634555,Medium,Not Patented,Medium,1
+822,4800,Urban,Low,Strong,6,long term,2,140000,4273,4518.034036109267,High,Patented,Low,0
+823,4600,Urban,Medium,Weak,6,weekly,8,160000,5485,6975.99102373385,Medium,Patented,High,1
+824,1600,Urban,Low,Strong,7,monthly,20,140000,8389,5319.307000248845,Medium,Patented,Medium,1
+825,4600,Rural,Low,Strong,4,yearly,38,20000,445,2430.940079295889,High,Not Patented,Medium,0
+826,1900,Suburban,High,Strong,9,weekly,2,40000,4873,4641.203484302047,Medium,Not Patented,Low,0
+827,1600,Suburban,High,Weak,3,monthly,2,120000,769,3625.4160124846585,Medium,Not Patented,Low,0
+828,1600,Rural,Low,Weak,9,yearly,14,120000,8629,8456.089995940487,Low,Patented,Medium,0
+829,3600,Rural,Low,Strong,2,weekly,2,100000,8329,690.0056842129878,Low,Patented,Low,0
+830,3800,Urban,High,Strong,3,monthly,44,40000,3949,142.5749626505576,Medium,Patented,High,1
+831,4300,Suburban,High,Weak,4,monthly,38,40000,1681,1306.8203123963876,Medium,Not Patented,Low,1
+832,4400,Rural,High,Strong,7,weekly,50,160000,9889,9181.383139403428,Medium,Not Patented,Low,1
+833,4000,Rural,Low,Weak,9,quaterly,20,200000,4153,5921.973507981728,Low,Not Patented,Medium,1
+834,2700,Urban,Low,Weak,9,monthly,50,200000,3205,4266.642359982127,Medium,Not Patented,High,1
+835,4900,Urban,Medium,Weak,8,weekly,44,60000,7513,11243.53966442793,Low,Not Patented,High,1
+836,4700,Suburban,Low,Weak,7,monthly,2,180000,793,4349.146842786888,Low,Patented,High,0
+837,2200,Suburban,High,Weak,4,quaterly,8,160000,2605,6813.496017320721,High,Not Patented,Medium,1
+838,4500,Suburban,High,Weak,2,yearly,20,200000,2905,6034.470238788926,High,Not Patented,Low,1
+839,1400,Rural,Medium,Strong,5,monthly,20,140000,1,5274.3969745589275,Medium,Not Patented,High,1
+840,3300,Rural,High,Weak,1,long term,14,200000,4537,8649.91835892618,High,Not Patented,Medium,1
+841,1600,Rural,Medium,Weak,5,yearly,14,140000,3493,2177.5674780319396,Medium,Not Patented,Low,0
+842,3500,Urban,High,Weak,9,monthly,44,20000,9541,3303.7912162423854,Medium,Not Patented,Low,0
+843,4000,Urban,Low,Strong,6,weekly,32,120000,4561,6663.493886149492,High,Patented,Low,0
+844,4000,Suburban,Low,Strong,3,weekly,56,140000,1297,5812.068237007903,Medium,Patented,High,0
+845,3000,Rural,Medium,Weak,6,quaterly,2,140000,6109,5058.93338223873,Medium,Patented,High,0
+846,4900,Suburban,Medium,Weak,8,quaterly,44,80000,7549,6515.772069670792,Medium,Not Patented,Low,1
+847,1100,Rural,Medium,Strong,8,quaterly,56,140000,6001,8779.05289553136,Low,Patented,High,0
+848,3600,Rural,High,Strong,1,yearly,26,100000,2809,6935.743488956155,High,Patented,Low,0
+849,600,Rural,High,Strong,2,quaterly,14,60000,5761,2695.6544821317293,Low,Not Patented,Low,0
+850,4700,Suburban,High,Weak,8,weekly,26,200000,7885,8213.118976279615,Low,Not Patented,Low,1
+851,2800,Rural,High,Strong,3,quaterly,32,200000,5677,9490.63891013683,High,Patented,High,1
+852,2900,Suburban,High,Strong,9,weekly,14,80000,5797,1686.3175713544838,Medium,Patented,Low,1
+853,1700,Urban,High,Weak,5,long term,56,40000,9637,3659.3122740381054,High,Not Patented,Medium,0
+854,1300,Rural,High,Strong,4,yearly,2,140000,7477,9062.022666977138,Medium,Patented,High,0
+855,2300,Urban,Low,Strong,2,yearly,56,180000,8113,9113.405072389687,High,Not Patented,High,1
+856,4000,Urban,Medium,Weak,9,long term,8,120000,9193,5947.202292938557,Medium,Patented,High,0
+857,4000,Rural,Low,Strong,3,quaterly,56,200000,9769,7578.048267895616,Medium,Not Patented,High,0
+858,4900,Urban,Low,Strong,8,weekly,2,140000,7417,10763.057508903607,Medium,Patented,High,1
+859,2500,Suburban,Low,Weak,2,long term,8,160000,3697,2967.0067843091665,High,Not Patented,High,1
+860,500,Urban,Medium,Weak,6,yearly,14,140000,7861,535.4351530967222,Medium,Patented,Low,1
+861,700,Urban,Medium,Weak,4,yearly,32,60000,9493,57.23952931162606,Medium,Patented,High,0
+862,1500,Urban,Low,Weak,1,yearly,8,20000,7033,8106.603426734966,Medium,Patented,Medium,0
+863,4500,Rural,Medium,Strong,8,long term,38,180000,4669,3532.014888786373,Low,Patented,Low,0
+864,4600,Rural,Low,Strong,8,yearly,26,20000,4309,7628.41607047827,High,Patented,Low,1
+865,3000,Urban,High,Weak,3,quaterly,8,120000,7765,440.67401625079935,High,Not Patented,High,0
+866,700,Rural,Low,Strong,2,yearly,2,80000,9853,10335.538479207009,Medium,Not Patented,High,0
+867,4100,Urban,Medium,Weak,3,monthly,32,60000,1165,3358.770172065092,Medium,Patented,High,0
+868,1400,Rural,Medium,Strong,2,quaterly,56,200000,3049,8664.536570489496,Low,Patented,Medium,1
+869,4200,Suburban,Low,Strong,3,yearly,2,60000,3373,4618.788903803271,Low,Patented,Medium,1
+870,2000,Rural,Low,Weak,7,weekly,2,200000,1933,290.3405495261908,High,Patented,High,1
+871,2700,Rural,Low,Strong,8,yearly,32,200000,4453,7578.048267895616,Medium,Patented,Medium,0
+872,1700,Suburban,Medium,Weak,7,monthly,14,20000,9853,5319.307000248845,High,Not Patented,High,0
+873,1100,Rural,High,Weak,6,long term,50,80000,5869,1533.8277836617685,High,Not Patented,Medium,0
+874,1700,Rural,Medium,Weak,9,weekly,14,20000,6769,2716.763082188665,Low,Patented,High,1
+875,500,Urban,Low,Weak,2,long term,2,60000,5485,7062.500356340113,Low,Not Patented,High,0
+876,1400,Suburban,Medium,Strong,6,long term,56,160000,9457,7325.671710152816,Low,Patented,Medium,0
+877,800,Suburban,Low,Strong,3,yearly,50,140000,8737,3273.509230563964,Low,Patented,High,0
+878,3300,Rural,Low,Strong,2,quaterly,38,40000,9613,6738.285055092175,Medium,Not Patented,Low,0
+879,3900,Rural,Medium,Weak,9,quaterly,14,140000,6613,6187.171163663948,Low,Not Patented,High,1
+880,1500,Urban,High,Strong,5,weekly,44,160000,4801,10223.879416860651,High,Not Patented,Medium,1
+881,3800,Rural,High,Strong,4,weekly,50,40000,2077,5634.709963804775,Low,Not Patented,Low,0
+882,1100,Rural,Medium,Strong,7,yearly,26,20000,2869,11238.250351340825,Medium,Patented,High,1
+883,2000,Rural,High,Strong,8,quaterly,50,20000,6385,8079.127906218288,Medium,Not Patented,Medium,1
+884,4900,Rural,High,Weak,6,monthly,26,20000,3025,7714.06937354959,High,Not Patented,Medium,1
+885,1600,Urban,Low,Strong,3,yearly,44,20000,8629,9952.331126528523,High,Not Patented,High,1
+886,3600,Rural,Medium,Weak,3,long term,56,160000,8245,3830.0101952196105,Medium,Not Patented,Low,1
+887,3300,Urban,High,Strong,8,monthly,56,40000,1933,4085.321620369975,Low,Not Patented,Medium,0
+888,4700,Suburban,Medium,Weak,3,monthly,38,100000,1333,996.988721159939,Medium,Not Patented,Medium,1
+889,3000,Rural,Medium,Weak,3,quaterly,26,180000,9853,9325.634591250022,Medium,Patented,Low,0
+890,2900,Suburban,Medium,Strong,6,monthly,32,160000,7045,5227.066806384205,Low,Patented,Low,0
+891,4000,Suburban,Medium,Strong,7,yearly,2,140000,4777,834.8733517085477,Low,Patented,Medium,0
+892,1100,Rural,High,Strong,7,quaterly,44,100000,6769,3480.9498951436954,High,Not Patented,High,1
+893,3000,Suburban,Medium,Weak,7,weekly,38,20000,3313,3255.956700614929,High,Not Patented,Medium,0
+894,2300,Rural,Medium,Weak,7,weekly,44,200000,5677,8983.064629923761,Low,Patented,High,0
+895,3100,Urban,Medium,Strong,6,long term,56,160000,7693,10207.576256855773,Low,Not Patented,Low,0
+896,3300,Suburban,Medium,Strong,8,yearly,20,60000,5185,2959.7953401975033,Low,Patented,Low,0
+897,2700,Rural,Medium,Strong,8,yearly,2,140000,1621,3925.695062985305,Low,Not Patented,Medium,1
+898,2900,Rural,Medium,Weak,5,monthly,32,160000,1213,5305.2698715346405,Medium,Patented,Low,0
+899,2900,Rural,Low,Strong,8,monthly,26,140000,5821,8140.993880861109,Medium,Not Patented,High,1
+900,3000,Suburban,High,Strong,1,monthly,50,80000,9337,7865.5212549868775,Medium,Not Patented,Medium,0
+901,3200,Suburban,High,Strong,7,monthly,38,140000,4693,8683.42215224983,High,Not Patented,High,1
+902,3600,Rural,Low,Strong,3,yearly,44,200000,9073,8788.104541195145,High,Not Patented,Medium,1
+903,1100,Suburban,Medium,Strong,8,long term,26,140000,2665,9831.403051108122,High,Patented,Medium,1
+904,2900,Urban,High,Weak,1,long term,56,40000,5989,2294.4255194105617,Low,Not Patented,Medium,1
+905,2100,Suburban,High,Strong,7,yearly,32,180000,9769,5172.236891620333,Medium,Not Patented,Medium,1
+906,1800,Suburban,High,Strong,9,long term,32,140000,685,2167.1447975618776,High,Patented,High,0
+907,3200,Rural,Medium,Weak,1,long term,8,180000,5005,3883.6909738857485,Low,Not Patented,Low,0
+908,3500,Suburban,Low,Strong,5,long term,38,140000,7213,11308.749682401409,Medium,Not Patented,High,1
+909,4700,Suburban,High,Strong,3,quaterly,2,140000,6217,6386.442227597328,High,Not Patented,High,1
+910,3200,Rural,Medium,Strong,2,weekly,2,120000,1465,3629.9272185075006,High,Not Patented,Low,1
+911,4500,Urban,Medium,Strong,7,weekly,2,60000,4801,500.23503851109774,Low,Not Patented,Low,1
+912,2900,Rural,Low,Strong,9,monthly,8,80000,2173,4399.308343162816,High,Patented,High,0
+913,4700,Rural,Low,Strong,7,yearly,50,160000,3469,3505.611222310096,Medium,Not Patented,Low,1
+914,2900,Rural,Medium,Weak,6,monthly,44,160000,3529,142.5749626505576,Medium,Patented,High,1
+915,900,Suburban,High,Strong,2,long term,38,60000,3181,7560.033987758782,High,Not Patented,Medium,1
+916,3400,Suburban,Medium,Weak,2,monthly,26,60000,9961,5100.691697904408,High,Patented,High,0
+917,3200,Suburban,Medium,Weak,6,monthly,56,200000,7549,7831.460178276296,Medium,Not Patented,Low,0
+918,1100,Rural,Medium,Strong,7,long term,8,140000,6505,3303.7912162423854,Medium,Patented,Medium,1
+919,3100,Suburban,Low,Weak,8,yearly,20,120000,4405,2669.3229164677678,Medium,Not Patented,Low,1
+920,800,Suburban,Low,Weak,7,quaterly,2,200000,1861,7589.984188476726,Medium,Not Patented,Medium,1
+921,4500,Rural,Medium,Weak,1,yearly,56,60000,3913,1554.4570408824486,Low,Patented,Low,1
+922,3200,Suburban,Medium,Strong,5,long term,2,140000,8089,500.23503851109774,Low,Patented,Medium,1
+923,1800,Rural,Medium,Strong,7,yearly,32,60000,961,10839.65989525885,High,Not Patented,Medium,1
+924,3500,Suburban,Low,Weak,1,yearly,2,180000,2821,2228.472696420331,High,Patented,Low,1
+925,2700,Suburban,Low,Weak,5,monthly,26,20000,7741,1697.3358525341744,Medium,Patented,Low,1
+926,1300,Suburban,Low,Weak,3,monthly,2,20000,5221,4399.308343162816,Low,Not Patented,Low,1
+927,800,Suburban,Medium,Strong,7,long term,44,160000,5785,1713.8394983777036,Low,Not Patented,Low,1
+928,1600,Suburban,High,Weak,3,quaterly,56,20000,7225,6239.095660335198,Low,Not Patented,Medium,1
+929,2900,Suburban,Medium,Weak,5,monthly,56,20000,7069,8836.334233363272,Low,Not Patented,Medium,0
+930,4300,Urban,Low,Weak,9,monthly,2,200000,8077,3449.1582599368153,High,Patented,Low,1
+931,900,Suburban,Medium,Weak,8,quaterly,20,140000,2653,8384.333693638247,Medium,Not Patented,Low,0
+932,4200,Urban,Low,Strong,9,long term,20,40000,6889,4513.213534638833,High,Patented,High,1
+933,4100,Rural,Medium,Strong,3,long term,44,120000,7525,9765.877567840742,High,Not Patented,Low,0
+934,4900,Rural,High,Weak,7,long term,56,100000,3145,863.7889496739546,Medium,Patented,Low,0
+935,4300,Suburban,Low,Strong,4,monthly,20,180000,5233,2959.7953401975033,Medium,Patented,Low,0
+936,2600,Rural,Medium,Strong,3,yearly,56,40000,937,8788.104541195145,Low,Patented,Medium,0
+937,1400,Rural,Low,Strong,5,weekly,56,60000,2797,6786.439490107967,High,Patented,Medium,1
+938,1600,Urban,High,Weak,1,quaterly,26,20000,2173,8140.993880861109,Low,Patented,High,0
+939,2500,Suburban,Medium,Strong,1,long term,56,160000,2053,7796.858931748591,Low,Patented,High,1
+940,1100,Suburban,Low,Strong,3,monthly,32,20000,5077,10098.340743344947,High,Patented,Medium,1
+941,1800,Urban,High,Strong,6,monthly,32,120000,9013,7302.672191861243,Low,Not Patented,High,0
+942,3500,Suburban,High,Strong,7,monthly,20,120000,3361,4625.1329942731945,Low,Not Patented,Medium,0
+943,2000,Suburban,Medium,Strong,9,long term,44,40000,1729,3478.9133025542974,Medium,Not Patented,Low,0
+944,2200,Rural,Low,Weak,5,long term,38,20000,6757,8223.919368120592,High,Patented,High,0
+945,4700,Rural,Medium,Strong,8,monthly,50,180000,6553,1300.762455391402,Low,Patented,High,0
+946,700,Suburban,Low,Strong,9,long term,50,40000,3421,6663.493886149492,Low,Patented,Low,1
+947,600,Rural,High,Weak,7,long term,38,180000,8137,4737.640384556615,Medium,Patented,Low,1
+948,800,Urban,Low,Strong,5,quaterly,8,60000,7189,6193.8046744839585,Medium,Patented,High,1
+949,2500,Rural,Low,Weak,9,weekly,44,40000,5629,5726.103573638634,Medium,Not Patented,Medium,1
+950,2400,Urban,High,Strong,2,yearly,38,40000,1069,8696.7591008258,Low,Not Patented,Low,1
+951,3500,Urban,Medium,Weak,2,quaterly,2,160000,2089,6257.491354112444,Medium,Not Patented,Low,1
+952,2000,Urban,Medium,Strong,5,yearly,38,140000,3781,7325.671710152816,Medium,Not Patented,High,1
+953,1900,Urban,Low,Weak,1,weekly,20,200000,7693,10190.430537280652,High,Patented,Low,0
+954,800,Urban,Low,Strong,6,weekly,8,120000,9565,1533.8277836617685,Medium,Patented,Medium,1
+955,2600,Rural,Medium,Strong,5,long term,56,160000,5281,6052.7774872608215,Medium,Not Patented,High,0
+956,2300,Urban,Medium,Strong,3,quaterly,2,40000,925,361.54779156579644,High,Not Patented,High,1
+957,2600,Urban,Low,Strong,7,monthly,32,200000,6217,2852.2935823871635,High,Not Patented,Low,0
+958,1800,Rural,High,Weak,6,yearly,20,60000,1633,8836.334233363272,Low,Patented,High,0
+959,2200,Urban,Low,Strong,2,long term,14,20000,3685,8384.516607751779,Low,Not Patented,Low,0
+960,1900,Suburban,High,Strong,2,monthly,20,80000,1297,7999.517077070773,Medium,Patented,Medium,0
+961,3000,Urban,High,Weak,5,quaterly,8,80000,7693,3058.7466276966616,High,Not Patented,Medium,1
+962,900,Suburban,Medium,Weak,2,yearly,56,200000,8293,3679.946441486998,Low,Patented,Low,0
+963,3200,Suburban,High,Weak,3,quaterly,44,200000,7765,64.37242305249248,Low,Not Patented,Medium,1
+964,4900,Rural,Low,Weak,6,yearly,14,100000,1729,9831.403051108122,Low,Not Patented,High,0
+965,800,Rural,High,Weak,7,long term,50,40000,985,9922.207201969219,Low,Patented,Low,0
+966,1200,Urban,Medium,Weak,7,weekly,20,140000,6373,10879.998356365651,High,Patented,Medium,0
+967,3300,Suburban,High,Strong,8,yearly,2,200000,8281,6786.439490107967,Low,Patented,Low,0
+968,4800,Suburban,Medium,Strong,1,yearly,20,200000,6793,8213.118976279615,High,Not Patented,High,0
+969,4100,Urban,Medium,Strong,7,monthly,32,120000,4729,1637.4011582712437,High,Not Patented,Medium,0
+970,3100,Suburban,Low,Weak,2,quaterly,14,20000,4873,9589.547169090796,Low,Not Patented,Low,0
+971,3500,Urban,Medium,Strong,8,long term,38,80000,6697,996.988721159939,High,Patented,Low,1
+972,3400,Urban,High,Weak,8,weekly,56,160000,7009,1049.5738847894443,Low,Not Patented,High,0
+973,4800,Rural,Medium,Weak,4,yearly,32,100000,6397,9332.336292791988,Low,Patented,Low,0
+974,1700,Suburban,Medium,Weak,2,weekly,44,180000,4309,837.6748837673842,Medium,Patented,Low,0
+975,1200,Rural,Low,Strong,2,yearly,20,160000,6925,5942.640480776173,High,Patented,High,1
+976,1400,Rural,Low,Strong,4,long term,20,80000,1069,9381.064888987785,Low,Not Patented,High,0
+977,1000,Urban,Medium,Weak,5,quaterly,8,120000,6793,6820.210396297884,Low,Not Patented,High,1
+978,600,Urban,High,Strong,2,quaterly,56,80000,4489,7736.224685634981,Medium,Patented,Medium,0
+979,1000,Urban,High,Strong,4,monthly,38,100000,7501,5822.841539608965,Low,Patented,Low,1
+980,2200,Rural,Low,Strong,5,long term,38,140000,3313,5050.178862388053,High,Not Patented,Low,1
+981,2400,Urban,Low,Strong,3,monthly,56,200000,8689,512.3129483056223,High,Patented,Medium,0
+982,500,Urban,High,Weak,2,weekly,2,160000,1993,2235.363119014396,High,Not Patented,Medium,1
+983,1700,Rural,Low,Weak,7,weekly,44,120000,5941,2459.111867327343,High,Not Patented,Medium,0
+984,3700,Rural,High,Weak,5,weekly,14,40000,9805,1677.0588525254175,Low,Patented,Low,0
+985,3700,Suburban,Low,Strong,4,monthly,56,120000,3265,1238.8380557403545,High,Patented,High,0
+986,1400,Urban,Medium,Weak,4,long term,2,160000,5917,1740.4189612941648,Low,Patented,Low,0
+987,500,Urban,High,Weak,1,yearly,8,80000,5509,7633.654478316281,High,Not Patented,High,0
+988,800,Rural,Low,Weak,5,monthly,8,140000,6481,8683.42215224983,High,Not Patented,Low,1
+989,1500,Rural,High,Strong,9,yearly,32,120000,805,1019.803238604808,Medium,Not Patented,Low,0
+990,4200,Suburban,Medium,Strong,6,yearly,2,80000,6841,9356.431901569953,Medium,Not Patented,Low,1
+991,3600,Urban,Low,Weak,9,weekly,26,180000,2197,5618.987948826177,Low,Not Patented,Low,0
+992,2200,Suburban,Low,Strong,6,monthly,2,20000,9745,8439.177622189924,Low,Patented,Low,0
+993,2700,Urban,Medium,Weak,1,monthly,44,20000,3925,229.29527125477097,Medium,Not Patented,Low,0
+994,4500,Urban,Medium,Strong,9,quaterly,14,160000,9085,10430.382811513768,High,Patented,Medium,1
+995,3900,Urban,High,Strong,5,yearly,20,60000,937,1569.623219996143,Medium,Not Patented,Low,0
+996,4400,Suburban,Medium,Strong,8,weekly,8,200000,6217,9875.588252971373,High,Not Patented,Low,1
+997,4900,Urban,High,Strong,1,long term,8,100000,7621,241.93675912656403,Medium,Patented,High,1
+998,1500,Rural,Low,Strong,8,yearly,50,80000,4417,4172.0466915906645,High,Patented,Medium,1
+999,4400,Suburban,High,Strong,7,long term,26,200000,1549,10190.430537280652,Medium,Patented,Medium,1
+1000,800,Rural,Medium,Weak,9,long term,50,40000,9577,5836.256773627403,Low,Not Patented,High,1
