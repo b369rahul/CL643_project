@@ -1,3 +1,3 @@
 # CL643_project
 
-Hii
+Hii, this is my class project for AI ML in chemical Engneering
